@@ -1,0 +1,34 @@
+{
+    "matchId": "2026-05-23-sale-all-stars",
+    "status": "scheduled",
+    "statusLabel": "Not started",
+    "period": "pre-match",
+    "minute": null,
+    "firstHalfStartedAt": null,
+    "secondHalfStartedAt": null,
+    "delayReason": "",
+    "fixture": {
+        "date": "2026-05-23",
+        "displayDate": "Saturday 23rd May 2026",
+        "kickoff": "09:30",
+        "meetTime": "09:00",
+        "competition": "Salford League U12 Division 2",
+        "venue": "Stockport County FC Training Ground",
+        "address": "Carrington Ln, Carrington, Manchester M31 4AE",
+        "pitchType": "3G",
+        "halvesMinutes": 30
+    },
+    "teams": {
+        "home": {
+            "name": "Sale All Stars U12",
+            "shortName": "Sale All Stars"
+        },
+        "away": {
+            "name": "Sale Utd Titans U12",
+            "shortName": "Sale Utd Titans"
+        }
+    },
+    "events": [],
+    "playerOfTheMatch": "",
+    "lastUpdated": "2026-05-16T23:01:49+00:00"
+}
