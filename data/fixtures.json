@@ -1,27 +1,48 @@
 {
-  "team": "Sale Utd Titans",
-  "season": "2025/26",
-  "matches": [
-    {
-      "id": "2026-05-16-wythenshawe-leopards",
-      "date": "2026-05-16",
-      "displayDate": "Sat 16 May",
-      "kickoff": "10:45",
-      "meetTime": "10:15",
-      "competition": "U12 Friendly Match",
-      "venue": "Manchester Enterprise Academy",
-      "address": "Simonsway, Manchester, M22 9RH",
-      "pitchType": "3G Astroturf",
-      "halvesMinutes": 30,
-      "home": {
-        "name": "Wythenshawe Leopards",
-        "shortName": "Wythenshawe Leopards"
-      },
-      "away": {
-        "name": "Sale Utd Titans",
-        "shortName": "Sale Utd Titans"
-      },
-      "matchFile": "data/matches/2026-05-16-wythenshawe-leopards.json"
-    }
-  ]
+    "team": "Sale Utd Titans",
+    "season": "2025/26",
+    "matches": [
+        {
+            "id": "2026-05-16-wythenshawe-leopards",
+            "date": "2026-05-16",
+            "displayDate": "Sat 16 May",
+            "kickoff": "10:45",
+            "meetTime": "10:15",
+            "competition": "U12 Friendly Match",
+            "venue": "Manchester Enterprise Academy",
+            "address": "Simonsway, Manchester, M22 9RH",
+            "pitchType": "3G Astroturf",
+            "halvesMinutes": 30,
+            "home": {
+                "name": "Wythenshawe Leopards",
+                "shortName": "Wythenshawe Leopards"
+            },
+            "away": {
+                "name": "Sale Utd Titans",
+                "shortName": "Sale Utd Titans"
+            },
+            "matchFile": "data/matches/2026-05-16-wythenshawe-leopards.json"
+        },
+        {
+            "id": "2026-05-23-sale-all-stars",
+            "date": "2026-05-23",
+            "displayDate": "Saturday 23rd May 2026",
+            "kickoff": "09:30",
+            "meetTime": "09:00",
+            "competition": "Salford League U12 Division 2",
+            "venue": "Stockport County FC Training Ground",
+            "address": "Carrington Ln, Carrington, Manchester M31 4AE",
+            "pitchType": "3G",
+            "halvesMinutes": 30,
+            "home": {
+                "name": "Sale All Stars U12",
+                "shortName": "Sale All Stars"
+            },
+            "away": {
+                "name": "Sale Utd Titans U12",
+                "shortName": "Sale Utd Titans"
+            },
+            "matchFile": "data/matches/2026-05-23-sale-all-stars.json"
+        }
+    ]
 }
