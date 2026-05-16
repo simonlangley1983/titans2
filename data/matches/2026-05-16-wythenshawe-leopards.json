@@ -1,34 +1,86 @@
 {
-  "matchId": "2026-05-16-wythenshawe-leopards",
-  "status": "scheduled",
-  "statusLabel": "Not started",
-  "period": "pre-match",
-  "minute": null,
-  "firstHalfStartedAt": null,
-  "secondHalfStartedAt": null,
-  "delayReason": "",
-  "fixture": {
-    "date": "2026-05-16",
-    "displayDate": "Sat 16 May",
-    "kickoff": "10:45",
-    "meetTime": "10:15",
-    "competition": "U12 Friendly Match",
-    "venue": "Manchester Enterprise Academy",
-    "address": "Simonsway, Manchester, M22 9RH",
-    "pitchType": "3G Astroturf",
-    "halvesMinutes": 30
-  },
-  "teams": {
-    "home": {
-      "name": "Wythenshawe Leopards",
-      "shortName": "Wythenshawe Leopards"
+    "matchId": "2026-05-16-wythenshawe-v-sale-united-u12-titans",
+    "status": "full-time",
+    "statusLabel": "Full time",
+    "period": "full-time",
+    "minute": 60,
+    "fixture": {
+        "date": "2026-05-16",
+        "displayDate": "Sat 16 May",
+        "kickoff": "10:45",
+        "meetTime": "10:15",
+        "competition": "League",
+        "venue": "Manchester Enterprise Academy",
+        "address": "Simonsway, Manchester, M22 9RH",
+        "pitchType": "3G Astroturf",
+        "halvesMinutes": 30
     },
-    "away": {
-      "name": "Sale Utd Titans",
-      "shortName": "Sale Utd Titans"
-    }
-  },
-  "events": [],
-  "playerOfTheMatch": "",
-  "lastUpdated": "2026-05-15T22:00:00Z"
+    "teams": {
+        "home": {
+            "name": "Wythenshawe Leopards",
+            "shortName": "Wythenshawe Leopards"
+        },
+        "away": {
+            "name": "Sale Utd Titans",
+            "shortName": "Sale Utd Titans"
+        }
+    },
+    "events": [
+        {
+            "id": "goal-1778926077",
+            "type": "goal",
+            "minute": 12,
+            "period": "first-half",
+            "team": "home",
+            "scorer": "Opponent",
+            "assist": ""
+        },
+        {
+            "id": "goal-1778926251",
+            "type": "goal",
+            "minute": 15,
+            "period": "first-half",
+            "team": "home",
+            "scorer": "Opponent",
+            "assist": ""
+        },
+        {
+            "id": "goal-1778927219",
+            "type": "goal",
+            "minute": 25,
+            "period": "first-half",
+            "team": "home",
+            "scorer": "Opponent",
+            "assist": ""
+        },
+        {
+            "id": "goal-1778928041",
+            "type": "goal",
+            "minute": 37,
+            "period": "second-half",
+            "team": "away",
+            "scorer": "George",
+            "assist": "Racim"
+        },
+        {
+            "id": "goal-1778928350",
+            "type": "goal",
+            "minute": 42,
+            "period": "second-half",
+            "team": "away",
+            "scorer": "Racim",
+            "assist": "Eric"
+        },
+        {
+            "id": "goal-1778928707",
+            "type": "goal",
+            "minute": 50,
+            "period": "second-half",
+            "team": "away",
+            "scorer": "Jay",
+            "assist": "Racim"
+        }
+    ],
+    "playerOfTheMatch": "Racim",
+    "lastUpdated": "2026-05-16T11:02:00+00:00"
 }
