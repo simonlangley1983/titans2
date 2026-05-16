@@ -1,1 +1,27 @@
-
+{
+  "team": "Sale Utd Titans",
+  "season": "2025/26",
+  "matches": [
+    {
+      "id": "2026-05-16-wythenshawe-leopards",
+      "date": "2026-05-16",
+      "displayDate": "Sat 16 May",
+      "kickoff": "10:45",
+      "meetTime": "10:15",
+      "competition": "U12 Friendly Match",
+      "venue": "Manchester Enterprise Academy",
+      "address": "Simonsway, Manchester, M22 9RH",
+      "pitchType": "3G Astroturf",
+      "halvesMinutes": 30,
+      "home": {
+        "name": "Wythenshawe Leopards",
+        "shortName": "Wythenshawe Leopards"
+      },
+      "away": {
+        "name": "Sale Utd Titans",
+        "shortName": "Sale Utd Titans"
+      },
+      "matchFile": "data/matches/2026-05-16-wythenshawe-leopards.json"
+    }
+  ]
+}
