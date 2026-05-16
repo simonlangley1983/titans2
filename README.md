@@ -1,4 +1,4 @@
-# Titans1 GitHub data
+# Titans2 GitHub data
 
 Upload the `data` folder to your GitHub repo called `titans1`.
 
