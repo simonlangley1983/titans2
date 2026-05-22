@@ -15,7 +15,7 @@
         "competition": "Salford League U12 Division 2",
         "venue": "Stockport County FC Training Ground",
         "address": "Carrington Ln, Carrington, Manchester M31 4AE",
-        "pitchType": "3G",
+        "pitchType": "Grass",
         "halvesMinutes": 30
     },
     "teams": {
@@ -30,5 +30,5 @@
     },
     "events": [],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-05-18T11:48:27+00:00"
+    "lastUpdated": "2026-05-22T20:23:04+00:00"
 }
