@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 31,
+    "minute": 38,
     "firstHalfStartedAt": "2026-05-23T09:57:57+00:00",
     "secondHalfStartedAt": "2026-05-23T10:35:27+00:00",
     "delayReason": "",
@@ -37,8 +37,17 @@
             "team": "home",
             "scorer": "Opponent",
             "assist": ""
+        },
+        {
+            "id": "goal-1779532965",
+            "type": "goal",
+            "minute": 38,
+            "period": "second-half",
+            "team": "away",
+            "scorer": "Will",
+            "assist": "Racim"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-05-23T10:35:27+00:00"
+    "lastUpdated": "2026-05-23T10:42:45+00:00"
 }
