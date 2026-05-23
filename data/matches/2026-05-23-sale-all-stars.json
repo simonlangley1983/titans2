@@ -1,9 +1,9 @@
 {
     "matchId": "2026-05-23-sale-all-stars",
-    "status": "live",
-    "statusLabel": "Live - 1st half",
-    "period": "first-half",
-    "minute": 19,
+    "status": "half-time",
+    "statusLabel": "Half time",
+    "period": "half-time",
+    "minute": 30,
     "firstHalfStartedAt": "2026-05-23T09:57:57+00:00",
     "secondHalfStartedAt": null,
     "delayReason": "",
@@ -40,5 +40,5 @@
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-05-23T10:16:56+00:00"
+    "lastUpdated": "2026-05-23T10:28:08+00:00"
 }
