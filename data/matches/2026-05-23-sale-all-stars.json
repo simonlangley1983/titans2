@@ -1,10 +1,10 @@
 {
     "matchId": "2026-05-23-sale-all-stars",
-    "status": "scheduled",
-    "statusLabel": "Not started",
-    "period": "pre-match",
-    "minute": null,
-    "firstHalfStartedAt": null,
+    "status": "live",
+    "statusLabel": "Live - 1st half",
+    "period": "first-half",
+    "minute": 1,
+    "firstHalfStartedAt": "2026-05-23T09:57:57+00:00",
     "secondHalfStartedAt": null,
     "delayReason": "",
     "fixture": {
@@ -30,5 +30,5 @@
     },
     "events": [],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-05-22T20:26:46+00:00"
+    "lastUpdated": "2026-05-23T09:57:57+00:00"
 }
