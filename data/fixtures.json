@@ -43,6 +43,27 @@
                 "name": "Sale Utd Titans U12",
                 "shortName": "Sale Utd Titans"
             }
+        },
+        {
+            "id": "2026-05-23-titans",
+            "matchFile": "data/matches/2026-05-23-titans.json",
+            "date": "2026-05-23",
+            "displayDate": "23rd May",
+            "kickoff": "22:30",
+            "meetTime": "22:00",
+            "competition": "Test",
+            "venue": "Test",
+            "address": "Test",
+            "pitchType": "3G",
+            "halvesMinutes": 30,
+            "home": {
+                "name": "Sale Titans",
+                "shortName": "Titans"
+            },
+            "away": {
+                "name": "Sale Monsters",
+                "shortName": "Monsters"
+            }
         }
     ]
 }
