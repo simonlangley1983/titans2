@@ -28,7 +28,17 @@
             "shortName": "Monsters"
         }
     },
-    "events": [],
+    "events": [
+        {
+            "id": "goal-1779571618",
+            "type": "goal",
+            "minute": 1,
+            "period": "first-half",
+            "team": "away",
+            "scorer": "Eric",
+            "assist": "George"
+        }
+    ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-05-23T21:26:43+00:00"
+    "lastUpdated": "2026-05-23T21:26:58+00:00"
 }
