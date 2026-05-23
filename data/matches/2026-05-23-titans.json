@@ -37,17 +37,8 @@
             "team": "away",
             "scorer": "Eric",
             "assist": "George"
-        },
-        {
-            "id": "goal-1779571628",
-            "type": "goal",
-            "minute": 1,
-            "period": "first-half",
-            "team": "away",
-            "scorer": "Wilf",
-            "assist": "Thomas H"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-05-23T21:27:08+00:00"
+    "lastUpdated": "2026-05-23T21:27:17+00:00"
 }
