@@ -1,11 +1,11 @@
 {
     "matchId": "2026-05-23-titans",
-    "status": "half-time",
-    "statusLabel": "Half time",
-    "period": "half-time",
-    "minute": 30,
+    "status": "live",
+    "statusLabel": "Live - 2nd half",
+    "period": "second-half",
+    "minute": 31,
     "firstHalfStartedAt": "2026-05-23T21:26:43+00:00",
-    "secondHalfStartedAt": null,
+    "secondHalfStartedAt": "2026-05-23T21:27:46+00:00",
     "delayReason": "",
     "fixture": {
         "date": "2026-05-23",
@@ -30,5 +30,5 @@
     },
     "events": [],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-05-23T21:27:39+00:00"
+    "lastUpdated": "2026-05-23T21:27:46+00:00"
 }
