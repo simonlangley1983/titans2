@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 1st half",
     "period": "first-half",
-    "minute": 1,
+    "minute": 19,
     "firstHalfStartedAt": "2026-05-23T09:57:57+00:00",
     "secondHalfStartedAt": null,
     "delayReason": "",
@@ -28,7 +28,17 @@
             "shortName": "Sale Utd Titans"
         }
     },
-    "events": [],
+    "events": [
+        {
+            "id": "goal-1779531416",
+            "type": "goal",
+            "minute": 19,
+            "period": "first-half",
+            "team": "home",
+            "scorer": "Opponent",
+            "assist": ""
+        }
+    ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-05-23T09:57:57+00:00"
+    "lastUpdated": "2026-05-23T10:16:56+00:00"
 }
