@@ -1,0 +1,34 @@
+{
+    "matchId": "2026-05-23-titans",
+    "status": "scheduled",
+    "statusLabel": "Not started",
+    "period": "pre-match",
+    "minute": null,
+    "firstHalfStartedAt": null,
+    "secondHalfStartedAt": null,
+    "delayReason": "",
+    "fixture": {
+        "date": "2026-05-23",
+        "displayDate": "23rd May",
+        "kickoff": "22:30",
+        "meetTime": "22:00",
+        "competition": "Test",
+        "venue": "Test",
+        "address": "Test",
+        "pitchType": "3G",
+        "halvesMinutes": 30
+    },
+    "teams": {
+        "home": {
+            "name": "Sale Titans",
+            "shortName": "Titans"
+        },
+        "away": {
+            "name": "Sale Monsters",
+            "shortName": "Monsters"
+        }
+    },
+    "events": [],
+    "playerOfTheMatch": "",
+    "lastUpdated": "2026-05-23T21:26:33+00:00"
+}
