@@ -1,9 +1,9 @@
 {
     "matchId": "2026-06-13-titans",
-    "status": "live",
-    "statusLabel": "Live - 2nd half",
-    "period": "second-half",
-    "minute": 57,
+    "status": "full-time",
+    "statusLabel": "Full time",
+    "period": "full-time",
+    "minute": 60,
     "firstHalfStartedAt": "2026-06-13T09:56:56+00:00",
     "secondHalfStartedAt": "2026-06-13T10:35:57+00:00",
     "delayReason": "",
@@ -67,5 +67,5 @@
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-06-13T11:02:55+00:00"
+    "lastUpdated": "2026-06-13T11:10:54+00:00"
 }
