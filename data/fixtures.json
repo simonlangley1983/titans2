@@ -43,6 +43,27 @@
                 "name": "Sale Utd Titans U12",
                 "shortName": "Sale Utd Titans"
             }
+        },
+        {
+            "id": "2026-06-13-titans",
+            "matchFile": "data/matches/2026-06-13-titans.json",
+            "date": "2026-06-13",
+            "displayDate": "13th June",
+            "kickoff": "11:00",
+            "meetTime": "10:30",
+            "competition": "Friendly",
+            "venue": "Crossford Bridge",
+            "address": "",
+            "pitchType": "4G astro",
+            "halvesMinutes": 35,
+            "home": {
+                "name": "Sale United Titans",
+                "shortName": "Titans"
+            },
+            "away": {
+                "name": "Tbc",
+                "shortName": "Tbc"
+            }
         }
     ]
 }
