@@ -38,10 +38,20 @@
             "team": "away",
             "scorer": "Eric",
             "assist": "Zayn"
+        },
+        {
+            "id": "goal-1781376747-1",
+            "type": "goal",
+            "goalType": "penalty",
+            "minute": 1,
+            "period": "first-half",
+            "team": "away",
+            "scorer": "Will",
+            "assist": ""
         }
     ],
     "playerOfTheMatch": "",
     "halfTimeSummary": "",
     "fullTimeSummary": "",
-    "lastUpdated": "2026-06-13T18:52:03+00:00"
+    "lastUpdated": "2026-06-13T18:52:27+00:00"
 }
