@@ -1,9 +1,9 @@
 {
     "matchId": "2026-06-13-test",
-    "status": "half-time",
-    "statusLabel": "Half time",
-    "period": "half-time",
-    "minute": 35,
+    "status": "full-time",
+    "statusLabel": "Full time",
+    "period": "full-time",
+    "minute": 70,
     "firstHalfStartedAt": "2026-06-13T18:56:33+00:00",
     "secondHalfStartedAt": null,
     "delayReason": "",
@@ -32,5 +32,5 @@
     "playerOfTheMatch": "",
     "halfTimeSummary": "",
     "fullTimeSummary": "",
-    "lastUpdated": "2026-06-13T18:57:53+00:00"
+    "lastUpdated": "2026-06-13T18:57:57+00:00"
 }
