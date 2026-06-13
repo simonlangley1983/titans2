@@ -1,9 +1,9 @@
 {
     "matchId": "2026-06-13-fc-united-u12",
-    "status": "live",
-    "statusLabel": "Live - 1st half",
-    "period": "first-half",
-    "minute": 1,
+    "status": "full-time",
+    "statusLabel": "Full time",
+    "period": "full-time",
+    "minute": 80,
     "firstHalfStartedAt": "2026-06-13T16:37:34+00:00",
     "secondHalfStartedAt": null,
     "delayReason": "",
@@ -43,5 +43,5 @@
     "playerOfTheMatch": "",
     "halfTimeSummary": "",
     "fullTimeSummary": "",
-    "lastUpdated": "2026-06-13T16:38:02+00:00"
+    "lastUpdated": "2026-06-13T16:38:14+00:00"
 }
