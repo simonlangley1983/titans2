@@ -28,9 +28,20 @@
             "shortName": "FC United U12"
         }
     },
-    "events": [],
+    "events": [
+        {
+            "id": "goal-1781368682-0",
+            "type": "goal",
+            "goalType": "penalty",
+            "minute": 1,
+            "period": "first-half",
+            "team": "home",
+            "scorer": "Noah",
+            "assist": ""
+        }
+    ],
     "playerOfTheMatch": "",
     "halfTimeSummary": "",
     "fullTimeSummary": "",
-    "lastUpdated": "2026-06-13T16:37:34+00:00"
+    "lastUpdated": "2026-06-13T16:38:02+00:00"
 }
