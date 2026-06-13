@@ -1,9 +1,9 @@
 {
     "matchId": "2026-06-13-aa",
-    "status": "live",
-    "statusLabel": "Live - 1st half",
-    "period": "first-half",
-    "minute": 1,
+    "status": "half-time",
+    "statusLabel": "Half time",
+    "period": "half-time",
+    "minute": 35,
     "firstHalfStartedAt": "2026-06-13T19:11:28+00:00",
     "secondHalfStartedAt": null,
     "delayReason": "",
@@ -63,5 +63,5 @@
     "playerOfTheMatch": "",
     "halfTimeSummary": "",
     "fullTimeSummary": "",
-    "lastUpdated": "2026-06-13T19:12:12+00:00"
+    "lastUpdated": "2026-06-13T19:12:16+00:00"
 }
