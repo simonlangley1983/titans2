@@ -1,9 +1,9 @@
 {
     "matchId": "2026-07-01-man-city-u14",
-    "status": "live",
-    "statusLabel": "Live - 1st half",
-    "period": "first-half",
-    "minute": 1,
+    "status": "half-time",
+    "statusLabel": "Half time",
+    "period": "half-time",
+    "minute": 35,
     "firstHalfStartedAt": "2026-06-13T18:51:34+00:00",
     "secondHalfStartedAt": null,
     "delayReason": "",
@@ -53,5 +53,5 @@
     "playerOfTheMatch": "",
     "halfTimeSummary": "",
     "fullTimeSummary": "",
-    "lastUpdated": "2026-06-13T18:52:27+00:00"
+    "lastUpdated": "2026-06-13T18:54:48+00:00"
 }
