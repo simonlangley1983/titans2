@@ -3,27 +3,6 @@
     "season": "2025/26",
     "matches": [
         {
-            "id": "2026-06-13-man-united-u12",
-            "matchFile": "data/matches/2026-06-13-man-united-u12.json",
-            "date": "2026-06-13",
-            "displayDate": "13th June 2026",
-            "kickoff": "20:00",
-            "meetTime": "19:30",
-            "competition": "aaa",
-            "venue": "aaa",
-            "address": "aaa",
-            "pitchType": "aaa",
-            "halvesMinutes": 35,
-            "home": {
-                "name": "Sale Utd Titans",
-                "shortName": "Sale Utd Titans"
-            },
-            "away": {
-                "name": "Man United U12",
-                "shortName": "Man United U12"
-            }
-        },
-        {
             "id": "2026-06-13-aaa2",
             "matchFile": "data/matches/2026-06-13-aaa2.json",
             "date": "2026-06-13",
