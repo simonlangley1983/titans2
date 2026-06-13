@@ -3,27 +3,6 @@
     "season": "2025/26",
     "matches": [
         {
-            "id": "2026-07-01-man-city-u14",
-            "matchFile": "data/matches/2026-07-01-man-city-u14.json",
-            "date": "2026-07-01",
-            "displayDate": "2026-07-01",
-            "kickoff": "20:00",
-            "meetTime": "19:30",
-            "competition": "test",
-            "venue": "test",
-            "address": "test",
-            "pitchType": "3g",
-            "halvesMinutes": 35,
-            "home": {
-                "name": "Man City U14",
-                "shortName": "Man City U14"
-            },
-            "away": {
-                "name": "Sale Utd Titans",
-                "shortName": "Sale Utd Titans"
-            }
-        },
-        {
             "id": "2026-06-13-test",
             "matchFile": "data/matches/2026-06-13-test.json",
             "date": "2026-06-13",
