@@ -3,25 +3,46 @@
     "season": "2025/26",
     "matches": [
         {
-            "id": "2026-05-16-wythenshawe-leopards",
-            "date": "2026-05-16",
-            "displayDate": "Sat 16 May",
-            "kickoff": "10:45",
-            "meetTime": "10:15",
-            "competition": "U12 Friendly Match",
-            "venue": "Manchester Enterprise Academy",
-            "address": "Simonsway, Manchester, M22 9RH",
-            "pitchType": "3G Astroturf",
-            "halvesMinutes": 30,
+            "id": "2026-06-13-fc-united-u12",
+            "matchFile": "data/matches/2026-06-13-fc-united-u12.json",
+            "date": "2026-06-13",
+            "displayDate": "13th June 2026",
+            "kickoff": "19:00",
+            "meetTime": "18:30",
+            "competition": "Friendly",
+            "venue": "Crossford Bridge",
+            "address": "32 Highfield Ave",
+            "pitchType": "4G",
+            "halvesMinutes": 40,
             "home": {
-                "name": "Wythenshawe Leopards",
-                "shortName": "Wythenshawe Leopards"
-            },
-            "away": {
                 "name": "Sale Utd Titans",
                 "shortName": "Sale Utd Titans"
             },
-            "matchFile": "data/matches/2026-05-16-wythenshawe-leopards.json"
+            "away": {
+                "name": "FC United U12",
+                "shortName": "FC United U12"
+            }
+        },
+        {
+            "id": "2026-06-13-titans",
+            "matchFile": "data/matches/2026-06-13-titans.json",
+            "date": "2026-06-13",
+            "displayDate": "13th June",
+            "kickoff": "11:00",
+            "meetTime": "10:30",
+            "competition": "Friendly",
+            "venue": "Crossford Bridge",
+            "address": "",
+            "pitchType": "4G astro",
+            "halvesMinutes": 35,
+            "home": {
+                "name": "Sale United Titans",
+                "shortName": "Titans"
+            },
+            "away": {
+                "name": "Mossley",
+                "shortName": "Mossley"
+            }
         },
         {
             "id": "2026-05-23-sale-all-stars",
@@ -45,25 +66,25 @@
             }
         },
         {
-            "id": "2026-06-13-titans",
-            "matchFile": "data/matches/2026-06-13-titans.json",
-            "date": "2026-06-13",
-            "displayDate": "13th June",
-            "kickoff": "11:00",
-            "meetTime": "10:30",
-            "competition": "Friendly",
-            "venue": "Crossford Bridge",
-            "address": "",
-            "pitchType": "4G astro",
-            "halvesMinutes": 35,
+            "id": "2026-05-16-wythenshawe-leopards",
+            "date": "2026-05-16",
+            "displayDate": "Sat 16 May",
+            "kickoff": "10:45",
+            "meetTime": "10:15",
+            "competition": "U12 Friendly Match",
+            "venue": "Manchester Enterprise Academy",
+            "address": "Simonsway, Manchester, M22 9RH",
+            "pitchType": "3G Astroturf",
+            "halvesMinutes": 30,
             "home": {
-                "name": "Sale United Titans",
-                "shortName": "Titans"
+                "name": "Wythenshawe Leopards",
+                "shortName": "Wythenshawe Leopards"
             },
             "away": {
-                "name": "Mossley",
-                "shortName": "Mossley"
-            }
+                "name": "Sale Utd Titans",
+                "shortName": "Sale Utd Titans"
+            },
+            "matchFile": "data/matches/2026-05-16-wythenshawe-leopards.json"
         }
     ]
 }
