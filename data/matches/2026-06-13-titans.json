@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 31,
+    "minute": 35,
     "firstHalfStartedAt": "2026-06-13T09:56:56+00:00",
     "secondHalfStartedAt": "2026-06-13T10:35:57+00:00",
     "delayReason": "",
@@ -28,7 +28,17 @@
             "shortName": "Mosley"
         }
     },
-    "events": [],
+    "events": [
+        {
+            "id": "goal-1781347256",
+            "type": "goal",
+            "minute": 35,
+            "period": "second-half",
+            "team": "away",
+            "scorer": "Eric",
+            "assist": ""
+        }
+    ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-06-13T10:35:57+00:00"
+    "lastUpdated": "2026-06-13T10:40:56+00:00"
 }
