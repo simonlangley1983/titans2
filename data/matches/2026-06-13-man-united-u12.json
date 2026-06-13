@@ -1,0 +1,36 @@
+{
+    "matchId": "2026-06-13-man-united-u12",
+    "status": "scheduled",
+    "statusLabel": "Not started",
+    "period": "pre-match",
+    "minute": null,
+    "firstHalfStartedAt": null,
+    "secondHalfStartedAt": null,
+    "delayReason": "",
+    "fixture": {
+        "date": "2026-06-13",
+        "displayDate": "13th June 2026",
+        "kickoff": "20:00",
+        "meetTime": "19:30",
+        "competition": "aaa",
+        "venue": "aaa",
+        "address": "aaa",
+        "pitchType": "aaa",
+        "halvesMinutes": 35
+    },
+    "teams": {
+        "home": {
+            "name": "Sale Utd Titans",
+            "shortName": "Sale Utd Titans"
+        },
+        "away": {
+            "name": "Man United U12",
+            "shortName": "Man United U12"
+        }
+    },
+    "events": [],
+    "playerOfTheMatch": "",
+    "halfTimeSummary": "",
+    "fullTimeSummary": "",
+    "lastUpdated": "2026-06-13T17:49:48+00:00"
+}
