@@ -3,27 +3,6 @@
     "season": "2025/26",
     "matches": [
         {
-            "id": "2026-06-13-test",
-            "matchFile": "data/matches/2026-06-13-test.json",
-            "date": "2026-06-13",
-            "displayDate": "13th June 2026",
-            "kickoff": "21:00",
-            "meetTime": "20:30",
-            "competition": "test",
-            "venue": "test",
-            "address": "test",
-            "pitchType": "test",
-            "halvesMinutes": 35,
-            "home": {
-                "name": "Sale Utd Titans",
-                "shortName": "Sale Utd Titans"
-            },
-            "away": {
-                "name": "test",
-                "shortName": "test"
-            }
-        },
-        {
             "id": "2026-06-13-aaa",
             "matchFile": "data/matches/2026-06-13-aaa.json",
             "date": "2026-06-13",
