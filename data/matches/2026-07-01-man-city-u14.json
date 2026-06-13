@@ -28,9 +28,20 @@
             "shortName": "Sale Utd Titans"
         }
     },
-    "events": [],
+    "events": [
+        {
+            "id": "goal-1781376723-0",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 1,
+            "period": "first-half",
+            "team": "away",
+            "scorer": "Eric",
+            "assist": "Zayn"
+        }
+    ],
     "playerOfTheMatch": "",
     "halfTimeSummary": "",
     "fullTimeSummary": "",
-    "lastUpdated": "2026-06-13T18:51:34+00:00"
+    "lastUpdated": "2026-06-13T18:52:03+00:00"
 }
