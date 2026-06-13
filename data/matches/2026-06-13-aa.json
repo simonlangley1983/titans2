@@ -38,10 +38,20 @@
             "team": "home",
             "scorer": "Wilf",
             "assist": "Eric"
+        },
+        {
+            "id": "goal-1781377918-1",
+            "type": "goal",
+            "goalType": "penalty",
+            "minute": 1,
+            "period": "first-half",
+            "team": "home",
+            "scorer": "Jay",
+            "assist": ""
         }
     ],
     "playerOfTheMatch": "",
     "halfTimeSummary": "",
     "fullTimeSummary": "",
-    "lastUpdated": "2026-06-13T19:11:42+00:00"
+    "lastUpdated": "2026-06-13T19:11:58+00:00"
 }
