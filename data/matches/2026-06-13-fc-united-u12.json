@@ -1,0 +1,36 @@
+{
+    "matchId": "2026-06-13-fc-united-u12",
+    "status": "scheduled",
+    "statusLabel": "Not started",
+    "period": "pre-match",
+    "minute": null,
+    "firstHalfStartedAt": null,
+    "secondHalfStartedAt": null,
+    "delayReason": "",
+    "fixture": {
+        "date": "2026-06-13",
+        "displayDate": "13th June 2026",
+        "kickoff": "19:00",
+        "meetTime": "18:30",
+        "competition": "Friendly",
+        "venue": "Crossford Bridge",
+        "address": "32 Highfield Ave",
+        "pitchType": "4G",
+        "halvesMinutes": 40
+    },
+    "teams": {
+        "home": {
+            "name": "Sale Utd Titans",
+            "shortName": "Sale Utd Titans"
+        },
+        "away": {
+            "name": "FC United U12",
+            "shortName": "FC United U12"
+        }
+    },
+    "events": [],
+    "playerOfTheMatch": "",
+    "halfTimeSummary": "",
+    "fullTimeSummary": "",
+    "lastUpdated": "2026-06-13T16:00:14+00:00"
+}
