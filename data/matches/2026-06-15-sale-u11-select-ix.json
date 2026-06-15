@@ -1,10 +1,10 @@
 {
     "matchId": "2026-06-15-sale-u11-select-ix",
-    "status": "scheduled",
-    "statusLabel": "Not started",
-    "period": "pre-match",
-    "minute": null,
-    "firstHalfStartedAt": null,
+    "status": "live",
+    "statusLabel": "Live - 1st half",
+    "period": "first-half",
+    "minute": 1,
+    "firstHalfStartedAt": "2026-06-15T17:40:01+00:00",
     "secondHalfStartedAt": null,
     "fixture": {
         "date": "2026-06-15",
@@ -27,5 +27,5 @@
     },
     "events": [],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-06-15T17:39:48+00:00"
+    "lastUpdated": "2026-06-15T17:40:01+00:00"
 }
