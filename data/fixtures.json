@@ -3,6 +3,25 @@
     "season": "2025/26",
     "matches": [
         {
+            "id": "2026-06-15-sale-u11-select-ix",
+            "matchFile": "data/matches/2026-06-15-sale-u11-select-ix.json",
+            "date": "2026-06-15",
+            "kickoff": "18:38",
+            "competition": "Friendly",
+            "venue": "Crossford",
+            "address": "",
+            "pitchType": "TBC",
+            "halvesMinutes": 35,
+            "home": {
+                "name": "Sale Utd Titans",
+                "shortName": "Sale Utd Titans"
+            },
+            "away": {
+                "name": "Sale U11 Select IX",
+                "shortName": "Sale U11 Select IX"
+            }
+        },
+        {
             "id": "2026-06-13-titans",
             "matchFile": "data/matches/2026-06-13-titans.json",
             "date": "2026-06-13",
