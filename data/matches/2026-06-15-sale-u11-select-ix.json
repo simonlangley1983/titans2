@@ -1,0 +1,31 @@
+{
+    "matchId": "2026-06-15-sale-u11-select-ix",
+    "status": "scheduled",
+    "statusLabel": "Not started",
+    "period": "pre-match",
+    "minute": null,
+    "firstHalfStartedAt": null,
+    "secondHalfStartedAt": null,
+    "fixture": {
+        "date": "2026-06-15",
+        "kickoff": "18:38",
+        "competition": "Friendly",
+        "venue": "Crossford",
+        "address": "",
+        "pitchType": "TBC",
+        "halvesMinutes": 35
+    },
+    "teams": {
+        "home": {
+            "name": "Sale Utd Titans",
+            "shortName": "Sale Utd Titans"
+        },
+        "away": {
+            "name": "Sale U11 Select IX",
+            "shortName": "Sale U11 Select IX"
+        }
+    },
+    "events": [],
+    "playerOfTheMatch": "",
+    "lastUpdated": "2026-06-15T17:39:48+00:00"
+}
