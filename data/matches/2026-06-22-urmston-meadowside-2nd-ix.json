@@ -85,8 +85,18 @@
             "team": "away",
             "scorer": "Opponent",
             "assist": ""
+        },
+        {
+            "id": "goal-1782151101-6",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 35,
+            "period": "half-time",
+            "team": "home",
+            "scorer": "Jay",
+            "assist": "Racim"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-06-22T17:57:14+00:00"
+    "lastUpdated": "2026-06-22T17:58:21+00:00"
 }
