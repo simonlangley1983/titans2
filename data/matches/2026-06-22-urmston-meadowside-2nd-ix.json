@@ -1,11 +1,11 @@
 {
     "matchId": "2026-06-22-urmston-meadowside-2nd-ix",
-    "status": "half-time",
-    "statusLabel": "Half time",
-    "period": "half-time",
-    "minute": 35,
+    "status": "live",
+    "statusLabel": "Live - 2nd half",
+    "period": "second-half",
+    "minute": 36,
     "firstHalfStartedAt": "2026-06-22T17:16:36+00:00",
-    "secondHalfStartedAt": null,
+    "secondHalfStartedAt": "2026-06-22T18:06:02+00:00",
     "fixture": {
         "date": "2026-06-22",
         "kickoff": "18:15",
@@ -108,5 +108,5 @@
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-06-22T18:01:36+00:00"
+    "lastUpdated": "2026-06-22T18:06:02+00:00"
 }
