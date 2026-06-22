@@ -3,6 +3,25 @@
     "season": "2025/26",
     "matches": [
         {
+            "id": "2026-06-22-urmston-meadowside-2nd-ix",
+            "matchFile": "data/matches/2026-06-22-urmston-meadowside-2nd-ix.json",
+            "date": "2026-06-22",
+            "kickoff": "18:15",
+            "competition": "Friendly",
+            "venue": "Crossford Bridge",
+            "address": "",
+            "pitchType": "3G",
+            "halvesMinutes": 35,
+            "home": {
+                "name": "Sale Utd Titans",
+                "shortName": "Sale Utd Titans"
+            },
+            "away": {
+                "name": "Urmston Meadowside 2nd IX",
+                "shortName": "Urmston Meadowside 2nd IX"
+            }
+        },
+        {
             "id": "2026-06-15-sale-u11-select-ix",
             "matchFile": "data/matches/2026-06-15-sale-u11-select-ix.json",
             "date": "2026-06-15",
