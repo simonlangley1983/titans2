@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 42,
+    "minute": 58,
     "firstHalfStartedAt": "2026-06-22T17:16:36+00:00",
     "secondHalfStartedAt": "2026-06-22T18:06:02+00:00",
     "fixture": {
@@ -115,8 +115,18 @@
             "team": "away",
             "scorer": "Opponent",
             "assist": ""
+        },
+        {
+            "id": "goal-1782152916-9",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 58,
+            "period": "second-half",
+            "team": "home",
+            "scorer": "Thomas B",
+            "assist": "George"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-06-22T18:12:57+00:00"
+    "lastUpdated": "2026-06-22T18:28:36+00:00"
 }
