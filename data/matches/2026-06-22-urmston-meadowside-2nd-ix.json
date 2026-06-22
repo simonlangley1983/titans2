@@ -95,8 +95,18 @@
             "team": "home",
             "scorer": "Jay",
             "assist": "Racim"
+        },
+        {
+            "id": "goal-1782151296-7",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 35,
+            "period": "half-time",
+            "team": "home",
+            "scorer": "Eric",
+            "assist": ""
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-06-22T17:58:21+00:00"
+    "lastUpdated": "2026-06-22T18:01:36+00:00"
 }
