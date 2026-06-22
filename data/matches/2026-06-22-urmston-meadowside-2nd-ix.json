@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 1st half",
     "period": "first-half",
-    "minute": 29,
+    "minute": 30,
     "firstHalfStartedAt": "2026-06-22T17:16:36+00:00",
     "secondHalfStartedAt": null,
     "fixture": {
@@ -65,8 +65,18 @@
             "team": "home",
             "scorer": "Eric",
             "assist": "Racim"
+        },
+        {
+            "id": "goal-1782150358-4",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 30,
+            "period": "first-half",
+            "team": "home",
+            "scorer": "Thomas B",
+            "assist": "George"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-06-22T17:45:33+00:00"
+    "lastUpdated": "2026-06-22T17:45:58+00:00"
 }
