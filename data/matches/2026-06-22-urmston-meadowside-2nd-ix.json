@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 36,
+    "minute": 42,
     "firstHalfStartedAt": "2026-06-22T17:16:36+00:00",
     "secondHalfStartedAt": "2026-06-22T18:06:02+00:00",
     "fixture": {
@@ -105,8 +105,18 @@
             "team": "home",
             "scorer": "Eric",
             "assist": ""
+        },
+        {
+            "id": "goal-1782151977-8",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 42,
+            "period": "second-half",
+            "team": "away",
+            "scorer": "Opponent",
+            "assist": ""
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-06-22T18:06:02+00:00"
+    "lastUpdated": "2026-06-22T18:12:57+00:00"
 }
