@@ -1,0 +1,31 @@
+{
+    "matchId": "2026-06-22-urmston-meadowside-2nd-ix",
+    "status": "scheduled",
+    "statusLabel": "Not started",
+    "period": "pre-match",
+    "minute": null,
+    "firstHalfStartedAt": null,
+    "secondHalfStartedAt": null,
+    "fixture": {
+        "date": "2026-06-22",
+        "kickoff": "18:15",
+        "competition": "Friendly",
+        "venue": "Crossford Bridge",
+        "address": "",
+        "pitchType": "3G",
+        "halvesMinutes": 35
+    },
+    "teams": {
+        "home": {
+            "name": "Sale Utd Titans",
+            "shortName": "Sale Utd Titans"
+        },
+        "away": {
+            "name": "Urmston Meadowside 2nd IX",
+            "shortName": "Urmston Meadowside 2nd IX"
+        }
+    },
+    "events": [],
+    "playerOfTheMatch": "",
+    "lastUpdated": "2026-06-22T17:10:55+00:00"
+}
