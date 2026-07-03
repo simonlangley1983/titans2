@@ -3,6 +3,25 @@
     "season": "2025/26",
     "matches": [
         {
+            "id": "2026-07-06-salford-storm-u13-hurricanes",
+            "matchFile": "data/matches/2026-07-06-salford-storm-u13-hurricanes.json",
+            "date": "2026-07-06",
+            "kickoff": "18:30",
+            "competition": "U13 friendly",
+            "venue": "Crossford Bridge",
+            "address": "Corssford Bridge, Sale",
+            "pitchType": "3G",
+            "halvesMinutes": 35,
+            "home": {
+                "name": "Sale Utd Titans",
+                "shortName": "Sale Utd Titans"
+            },
+            "away": {
+                "name": "Salford Storm U13 Hurricanes",
+                "shortName": "Salford Storm U13 Hurricanes"
+            }
+        },
+        {
             "id": "2026-06-22-urmston-meadowside-2nd-ix",
             "matchFile": "data/matches/2026-06-22-urmston-meadowside-2nd-ix.json",
             "date": "2026-06-22",
