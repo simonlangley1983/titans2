@@ -9,6 +9,7 @@
     "fixture": {
         "date": "2026-07-06",
         "kickoff": "18:30",
+        "meetTime": "18:15",
         "competition": "U13 friendly",
         "venue": "Crossford Bridge",
         "address": "Corssford Bridge, Sale",
@@ -27,5 +28,5 @@
     },
     "events": [],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-07-03T23:21:48+00:00"
+    "lastUpdated": "2026-07-06T07:56:04+00:00"
 }
