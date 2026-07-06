@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 57,
+    "minute": 66,
     "firstHalfStartedAt": "2026-07-06T17:18:48+00:00",
     "secondHalfStartedAt": "2026-07-06T18:03:41+00:00",
     "fixture": {
@@ -46,8 +46,18 @@
             "team": "home",
             "scorer": "George",
             "assist": "Racim"
+        },
+        {
+            "id": "goal-1783362838-2",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 66,
+            "period": "second-half",
+            "team": "away",
+            "scorer": "Opponent",
+            "assist": ""
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-07-06T18:25:03+00:00"
+    "lastUpdated": "2026-07-06T18:33:58+00:00"
 }
