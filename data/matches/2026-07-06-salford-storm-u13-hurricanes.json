@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 36,
+    "minute": 57,
     "firstHalfStartedAt": "2026-07-06T17:18:48+00:00",
     "secondHalfStartedAt": "2026-07-06T18:03:41+00:00",
     "fixture": {
@@ -36,8 +36,18 @@
             "team": "home",
             "scorer": "Thomas H",
             "assist": "Noah"
+        },
+        {
+            "id": "goal-1783362303-1",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 57,
+            "period": "second-half",
+            "team": "home",
+            "scorer": "George",
+            "assist": "Racim"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-07-06T18:03:41+00:00"
+    "lastUpdated": "2026-07-06T18:25:03+00:00"
 }
