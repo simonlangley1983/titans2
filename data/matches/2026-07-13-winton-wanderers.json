@@ -1,10 +1,10 @@
 {
     "matchId": "2026-07-13-winton-wanderers",
-    "status": "scheduled",
-    "statusLabel": "Not started",
-    "period": "pre-match",
-    "minute": null,
-    "firstHalfStartedAt": null,
+    "status": "live",
+    "statusLabel": "Live - 1st half",
+    "period": "first-half",
+    "minute": 1,
+    "firstHalfStartedAt": "2026-07-13T17:17:30+00:00",
     "secondHalfStartedAt": null,
     "fixture": {
         "date": "2026-07-13",
@@ -28,5 +28,5 @@
     },
     "events": [],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-07-13T15:04:56+00:00"
+    "lastUpdated": "2026-07-13T17:17:30+00:00"
 }
