@@ -1,0 +1,32 @@
+{
+    "matchId": "2026-07-13-winton-wanderers",
+    "status": "scheduled",
+    "statusLabel": "Not started",
+    "period": "pre-match",
+    "minute": null,
+    "firstHalfStartedAt": null,
+    "secondHalfStartedAt": null,
+    "fixture": {
+        "date": "2026-07-13",
+        "kickoff": "18:15",
+        "meetTime": "18:00",
+        "competition": "Friendly",
+        "venue": "Crossford",
+        "address": "Crossford Bridge",
+        "pitchType": "3G",
+        "halvesMinutes": 35
+    },
+    "teams": {
+        "home": {
+            "name": "Sale Utd Titans",
+            "shortName": "Sale Utd Titans"
+        },
+        "away": {
+            "name": "Winton Wanderers",
+            "shortName": "Winton Wanderers"
+        }
+    },
+    "events": [],
+    "playerOfTheMatch": "",
+    "lastUpdated": "2026-07-13T15:04:56+00:00"
+}
