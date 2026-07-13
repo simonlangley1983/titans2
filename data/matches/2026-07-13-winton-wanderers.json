@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 1st half",
     "period": "first-half",
-    "minute": 7,
+    "minute": 27,
     "firstHalfStartedAt": "2026-07-13T17:17:30+00:00",
     "secondHalfStartedAt": null,
     "fixture": {
@@ -46,8 +46,18 @@
             "team": "home",
             "scorer": "Thomas B",
             "assist": "Thomas H"
+        },
+        {
+            "id": "goal-1783964616-2",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 27,
+            "period": "first-half",
+            "team": "away",
+            "scorer": "Opponent",
+            "assist": ""
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-07-13T17:23:55+00:00"
+    "lastUpdated": "2026-07-13T17:43:36+00:00"
 }
