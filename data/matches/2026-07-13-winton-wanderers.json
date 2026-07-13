@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 32,
+    "minute": 34,
     "firstHalfStartedAt": "2026-07-13T17:17:30+00:00",
     "secondHalfStartedAt": "2026-07-13T17:55:21+00:00",
     "fixture": {
@@ -66,8 +66,18 @@
             "team": "home",
             "scorer": "George",
             "assist": ""
+        },
+        {
+            "id": "goal-1783965552-4",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 34,
+            "period": "second-half",
+            "team": "home",
+            "scorer": "George",
+            "assist": "Oli"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-07-13T17:57:03+00:00"
+    "lastUpdated": "2026-07-13T17:59:12+00:00"
 }
