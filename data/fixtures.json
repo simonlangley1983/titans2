@@ -1,147 +1,286 @@
 {
-    "team": "Sale Utd Titans",
-    "season": "2025/26",
+    "team": "Sale United U13 Titans",
+    "season": "2026/27",
     "matches": [
         {
-            "id": "2026-07-13-winton-wanderers",
-            "matchFile": "data/matches/2026-07-13-winton-wanderers.json",
-            "date": "2026-07-13",
-            "kickoff": "18:15",
-            "meetTime": "18:00",
-            "competition": "Friendly",
-            "venue": "Crossford",
-            "address": "Crossford Bridge",
-            "pitchType": "3G",
-            "halvesMinutes": 35,
-            "home": {
-                "name": "Sale Utd Titans",
-                "shortName": "Sale Utd Titans"
-            },
-            "away": {
-                "name": "Winton Wanderers",
-                "shortName": "Winton Wanderers"
-            }
-        },
-        {
-            "id": "2026-07-06-salford-storm-u13-hurricanes",
-            "matchFile": "data/matches/2026-07-06-salford-storm-u13-hurricanes.json",
-            "date": "2026-07-06",
-            "kickoff": "18:30",
-            "meetTime": "18:15",
-            "competition": "U13 friendly",
-            "venue": "Crossford Bridge",
-            "address": "Corssford Bridge, Sale",
-            "pitchType": "3G",
-            "halvesMinutes": 35,
-            "home": {
-                "name": "Sale Utd Titans",
-                "shortName": "Sale Utd Titans"
-            },
-            "away": {
-                "name": "Salford Storm U13 Hurricanes",
-                "shortName": "Salford Storm U13 Hurricanes"
-            }
-        },
-        {
-            "id": "2026-06-22-urmston-meadowside-2nd-ix",
-            "matchFile": "data/matches/2026-06-22-urmston-meadowside-2nd-ix.json",
-            "date": "2026-06-22",
-            "kickoff": "18:15",
-            "competition": "Friendly",
-            "venue": "Crossford Bridge",
-            "address": "",
-            "pitchType": "3G",
-            "halvesMinutes": 35,
-            "home": {
-                "name": "Sale Utd Titans",
-                "shortName": "Sale Utd Titans"
-            },
-            "away": {
-                "name": "Urmston Meadowside 2nd IX",
-                "shortName": "Urmston Meadowside 2nd IX"
-            }
-        },
-        {
-            "id": "2026-06-15-sale-u11-select-ix",
-            "matchFile": "data/matches/2026-06-15-sale-u11-select-ix.json",
-            "date": "2026-06-15",
-            "kickoff": "18:38",
-            "competition": "Friendly",
-            "venue": "Crossford",
+            "id": "2026-09-05-salford-town-jfc-u13-lightning",
+            "matchFile": "data/matches/2026-09-05-salford-town-jfc-u13-lightning.json",
+            "date": "2026-09-05",
+            "kickoff": "11:00",
+            "meetTime": "",
+            "competition": "League",
+            "venue": "Crossford Bridge Pitch 1",
             "address": "",
             "pitchType": "TBC",
             "halvesMinutes": 35,
             "home": {
-                "name": "Sale Utd Titans",
-                "shortName": "Sale Utd Titans"
+                "name": "Sale United U13 Titans",
+                "shortName": "Sale United U13 Titans"
             },
             "away": {
-                "name": "Sale U11 Select IX",
-                "shortName": "Sale U11 Select IX"
+                "name": "Salford Town JFC U13 Lightning",
+                "shortName": "Salford Town JFC U13 Lightning"
             }
         },
         {
-            "id": "2026-06-13-titans",
-            "matchFile": "data/matches/2026-06-13-titans.json",
-            "date": "2026-06-13",
-            "displayDate": "13th June",
+            "id": "2026-09-19-fletcher-moss-rangers-u13-yellows",
+            "matchFile": "data/matches/2026-09-19-fletcher-moss-rangers-u13-yellows.json",
+            "date": "2026-09-19",
             "kickoff": "11:00",
-            "meetTime": "10:30",
-            "competition": "Friendly",
-            "venue": "Crossford Bridge",
+            "meetTime": "",
+            "competition": "League",
+            "venue": "Merseybank Playing Fields Pitch 8",
             "address": "",
-            "pitchType": "4G astro",
+            "pitchType": "TBC",
             "halvesMinutes": 35,
             "home": {
-                "name": "Sale United Titans",
-                "shortName": "Titans"
+                "name": "Fletcher Moss Rangers U13 Yellows",
+                "shortName": "Fletcher Moss Rangers U13 Yellows"
             },
             "away": {
-                "name": "Mossley",
-                "shortName": "Mossley"
+                "name": "Sale United U13 Titans",
+                "shortName": "Sale United U13 Titans"
             }
         },
         {
-            "id": "2026-05-23-sale-all-stars",
-            "matchFile": "data/matches/2026-05-23-sale-all-stars.json",
-            "date": "2026-05-23",
-            "displayDate": "Saturday 23rd May 2026",
+            "id": "2026-09-26-sale-all-stars-fc-u13-falcons",
+            "matchFile": "data/matches/2026-09-26-sale-all-stars-fc-u13-falcons.json",
+            "date": "2026-09-26",
+            "kickoff": "09:00",
+            "meetTime": "",
+            "competition": "League",
+            "venue": "Crossford Bridge Pitch 1",
+            "address": "",
+            "pitchType": "TBC",
+            "halvesMinutes": 35,
+            "home": {
+                "name": "Sale United U13 Titans",
+                "shortName": "Sale United U13 Titans"
+            },
+            "away": {
+                "name": "Sale All Stars FC U13 Falcons",
+                "shortName": "Sale All Stars FC U13 Falcons"
+            }
+        },
+        {
+            "id": "2026-10-03-coach-hene-sports-club-u12-eagles",
+            "matchFile": "data/matches/2026-10-03-coach-hene-sports-club-u12-eagles.json",
+            "date": "2026-10-03",
+            "kickoff": "10:30",
+            "meetTime": "",
+            "competition": "League",
+            "venue": "Droylsden Academy",
+            "address": "",
+            "pitchType": "TBC",
+            "halvesMinutes": 35,
+            "home": {
+                "name": "Coach Hene Sports Club U12 Eagles",
+                "shortName": "Coach Hene Sports Club U12 Eagles"
+            },
+            "away": {
+                "name": "Sale United U13 Titans",
+                "shortName": "Sale United U13 Titans"
+            }
+        },
+        {
+            "id": "2026-10-10-st-johns-chorlton-u13-jfc",
+            "matchFile": "data/matches/2026-10-10-st-johns-chorlton-u13-jfc.json",
+            "date": "2026-10-10",
+            "kickoff": "09:00",
+            "meetTime": "",
+            "competition": "League",
+            "venue": "Crossford Bridge Pitch 1",
+            "address": "",
+            "pitchType": "TBC",
+            "halvesMinutes": 35,
+            "home": {
+                "name": "Sale United U13 Titans",
+                "shortName": "Sale United U13 Titans"
+            },
+            "away": {
+                "name": "St Johns (Chorlton) U13 JFC",
+                "shortName": "St Johns (Chorlton) U13 JFC"
+            }
+        },
+        {
+            "id": "2026-10-17-sale-united-u13-lions",
+            "matchFile": "data/matches/2026-10-17-sale-united-u13-lions.json",
+            "date": "2026-10-17",
+            "kickoff": "09:00",
+            "meetTime": "",
+            "competition": "League",
+            "venue": "Crossford Bridge Pitch 1",
+            "address": "",
+            "pitchType": "TBC",
+            "halvesMinutes": 35,
+            "home": {
+                "name": "Sale United U13 Titans",
+                "shortName": "Sale United U13 Titans"
+            },
+            "away": {
+                "name": "Sale United U13 Lions",
+                "shortName": "Sale United U13 Lions"
+            }
+        },
+        {
+            "id": "2026-10-24-swinton-u13-wolves",
+            "matchFile": "data/matches/2026-10-24-swinton-u13-wolves.json",
+            "date": "2026-10-24",
+            "kickoff": "09:00",
+            "meetTime": "",
+            "competition": "League",
+            "venue": "Crossford Bridge Pitch 1",
+            "address": "",
+            "pitchType": "TBC",
+            "halvesMinutes": 35,
+            "home": {
+                "name": "Sale United U13 Titans",
+                "shortName": "Sale United U13 Titans"
+            },
+            "away": {
+                "name": "Swinton U13 Wolves",
+                "shortName": "Swinton U13 Wolves"
+            }
+        },
+        {
+            "id": "2026-10-31-salford-town-jfc-u13-lightning",
+            "matchFile": "data/matches/2026-10-31-salford-town-jfc-u13-lightning.json",
+            "date": "2026-10-31",
+            "kickoff": "11:30",
+            "meetTime": "",
+            "competition": "League",
+            "venue": "Broughton Cricket & Rugby Club #2",
+            "address": "",
+            "pitchType": "TBC",
+            "halvesMinutes": 35,
+            "home": {
+                "name": "Salford Town JFC U13 Lightning",
+                "shortName": "Salford Town JFC U13 Lightning"
+            },
+            "away": {
+                "name": "Sale United U13 Titans",
+                "shortName": "Sale United U13 Titans"
+            }
+        },
+        {
+            "id": "2026-11-07-fletcher-moss-rangers-u13-yellows",
+            "matchFile": "data/matches/2026-11-07-fletcher-moss-rangers-u13-yellows.json",
+            "date": "2026-11-07",
+            "kickoff": "09:00",
+            "meetTime": "",
+            "competition": "League",
+            "venue": "Crossford Bridge Pitch 1",
+            "address": "",
+            "pitchType": "TBC",
+            "halvesMinutes": 35,
+            "home": {
+                "name": "Sale United U13 Titans",
+                "shortName": "Sale United U13 Titans"
+            },
+            "away": {
+                "name": "Fletcher Moss Rangers U13 Yellows",
+                "shortName": "Fletcher Moss Rangers U13 Yellows"
+            }
+        },
+        {
+            "id": "2026-11-14-swinton-u13-wolves",
+            "matchFile": "data/matches/2026-11-14-swinton-u13-wolves.json",
+            "date": "2026-11-14",
+            "kickoff": "09:00",
+            "meetTime": "",
+            "competition": "League",
+            "venue": "Duncan Mathieson Playing Fields",
+            "address": "",
+            "pitchType": "TBC",
+            "halvesMinutes": 35,
+            "home": {
+                "name": "Swinton U13 Wolves",
+                "shortName": "Swinton U13 Wolves"
+            },
+            "away": {
+                "name": "Sale United U13 Titans",
+                "shortName": "Sale United U13 Titans"
+            }
+        },
+        {
+            "id": "2026-11-21-coach-hene-sports-club-u12-eagles",
+            "matchFile": "data/matches/2026-11-21-coach-hene-sports-club-u12-eagles.json",
+            "date": "2026-11-21",
+            "kickoff": "09:00",
+            "meetTime": "",
+            "competition": "League",
+            "venue": "Crossford Bridge Pitch 1",
+            "address": "",
+            "pitchType": "TBC",
+            "halvesMinutes": 35,
+            "home": {
+                "name": "Sale United U13 Titans",
+                "shortName": "Sale United U13 Titans"
+            },
+            "away": {
+                "name": "Coach Hene Sports Club U12 Eagles",
+                "shortName": "Coach Hene Sports Club U12 Eagles"
+            }
+        },
+        {
+            "id": "2026-12-05-sale-all-stars-fc-u13-falcons",
+            "matchFile": "data/matches/2026-12-05-sale-all-stars-fc-u13-falcons.json",
+            "date": "2026-12-05",
+            "kickoff": "09:00",
+            "meetTime": "",
+            "competition": "League",
+            "venue": "Stockport County FC Training Centre",
+            "address": "",
+            "pitchType": "TBC",
+            "halvesMinutes": 35,
+            "home": {
+                "name": "Sale All Stars FC U13 Falcons",
+                "shortName": "Sale All Stars FC U13 Falcons"
+            },
+            "away": {
+                "name": "Sale United U13 Titans",
+                "shortName": "Sale United U13 Titans"
+            }
+        },
+        {
+            "id": "2026-12-12-sale-united-u13-lions",
+            "matchFile": "data/matches/2026-12-12-sale-united-u13-lions.json",
+            "date": "2026-12-12",
             "kickoff": "11:00",
-            "meetTime": "10:30",
-            "competition": "Salford League U12 Division 2",
-            "venue": "Stockport County FC Training Ground",
-            "address": "Carrington Ln, Carrington, Manchester M31 4AE",
-            "pitchType": "Grass",
-            "halvesMinutes": 30,
+            "meetTime": "",
+            "competition": "League",
+            "venue": "Crossford Bridge Pitch 1",
+            "address": "",
+            "pitchType": "TBC",
+            "halvesMinutes": 35,
             "home": {
-                "name": "Sale All Stars U12",
-                "shortName": "Sale All Stars"
+                "name": "Sale United U13 Lions",
+                "shortName": "Sale United U13 Lions"
             },
             "away": {
-                "name": "Sale Utd Titans U12",
-                "shortName": "Sale Utd Titans"
+                "name": "Sale United U13 Titans",
+                "shortName": "Sale United U13 Titans"
             }
         },
         {
-            "id": "2026-05-16-wythenshawe-leopards",
-            "date": "2026-05-16",
-            "displayDate": "Sat 16 May",
-            "kickoff": "10:45",
-            "meetTime": "10:15",
-            "competition": "U12 Friendly Match",
-            "venue": "Manchester Enterprise Academy",
-            "address": "Simonsway, Manchester, M22 9RH",
-            "pitchType": "3G Astroturf",
-            "halvesMinutes": 30,
+            "id": "2027-03-06-st-johns-chorlton-u13-jfc",
+            "matchFile": "data/matches/2027-03-06-st-johns-chorlton-u13-jfc.json",
+            "date": "2027-03-06",
+            "kickoff": "10:00",
+            "meetTime": "",
+            "competition": "League",
+            "venue": "Turn Moss Park Pitch 10",
+            "address": "",
+            "pitchType": "TBC",
+            "halvesMinutes": 35,
             "home": {
-                "name": "Wythenshawe Leopards",
-                "shortName": "Wythenshawe Leopards"
+                "name": "St Johns (Chorlton) U13 JFC",
+                "shortName": "St Johns (Chorlton) U13 JFC"
             },
             "away": {
-                "name": "Sale Utd Titans",
-                "shortName": "Sale Utd Titans"
-            },
-            "matchFile": "data/matches/2026-05-16-wythenshawe-leopards.json"
+                "name": "Sale United U13 Titans",
+                "shortName": "Sale United U13 Titans"
+            }
         }
     ]
 }

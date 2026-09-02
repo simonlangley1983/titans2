@@ -1,0 +1,32 @@
+{
+    "matchId": "2026-10-31-salford-town-jfc-u13-lightning",
+    "status": "scheduled",
+    "statusLabel": "Not started",
+    "period": "pre-match",
+    "minute": null,
+    "firstHalfStartedAt": null,
+    "secondHalfStartedAt": null,
+    "fixture": {
+        "date": "2026-10-31",
+        "kickoff": "11:30",
+        "meetTime": "",
+        "competition": "League",
+        "venue": "Broughton Cricket & Rugby Club #2",
+        "address": "",
+        "pitchType": "TBC",
+        "halvesMinutes": 35
+    },
+    "teams": {
+        "home": {
+            "name": "Salford Town JFC U13 Lightning",
+            "shortName": "Salford Town JFC U13 Lightning"
+        },
+        "away": {
+            "name": "Sale United U13 Titans",
+            "shortName": "Sale United U13 Titans"
+        }
+    },
+    "events": [],
+    "playerOfTheMatch": "",
+    "lastUpdated": "2026-09-02T21:18:10.919Z"
+}
