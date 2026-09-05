@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 1st half",
     "period": "first-half",
-    "minute": 6,
+    "minute": 9,
     "firstHalfStartedAt": "2026-09-05T09:58:53+00:00",
     "secondHalfStartedAt": null,
     "fixture": {
@@ -46,8 +46,18 @@
             "team": "home",
             "scorer": "Bobby",
             "assist": "Oli"
+        },
+        {
+            "id": "goal-1788602845-2",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 9,
+            "period": "first-half",
+            "team": "home",
+            "scorer": "Thomas B",
+            "assist": "George"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-09-05T10:04:50+00:00"
+    "lastUpdated": "2026-09-05T10:07:25+00:00"
 }
