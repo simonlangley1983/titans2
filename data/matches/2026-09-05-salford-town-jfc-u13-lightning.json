@@ -76,8 +76,18 @@
             "team": "home",
             "scorer": "Eric",
             "assist": "Bobby"
+        },
+        {
+            "id": "goal-1788603941-5",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 27,
+            "period": "first-half",
+            "team": "home",
+            "scorer": "Bobby",
+            "assist": "Thomas B"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-09-05T10:24:53+00:00"
+    "lastUpdated": "2026-09-05T10:25:41+00:00"
 }
