@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 48,
+    "minute": 57,
     "firstHalfStartedAt": "2026-09-05T09:58:53+00:00",
     "secondHalfStartedAt": "2026-09-05T10:33:39+00:00",
     "fixture": {
@@ -116,8 +116,18 @@
             "team": "home",
             "scorer": "Jay",
             "assist": "Racim"
+        },
+        {
+            "id": "goal-1788605727-9",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 57,
+            "period": "second-half",
+            "team": "home",
+            "scorer": "Racim",
+            "assist": ""
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-09-05T10:46:32+00:00"
+    "lastUpdated": "2026-09-05T10:55:27+00:00"
 }
