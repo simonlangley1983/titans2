@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 57,
+    "minute": 58,
     "firstHalfStartedAt": "2026-09-05T09:58:53+00:00",
     "secondHalfStartedAt": "2026-09-05T10:33:39+00:00",
     "fixture": {
@@ -126,8 +126,18 @@
             "team": "home",
             "scorer": "Racim",
             "assist": ""
+        },
+        {
+            "id": "goal-1788605797-10",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 58,
+            "period": "second-half",
+            "team": "home",
+            "scorer": "Bobby",
+            "assist": "Thomas B"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-09-05T10:55:27+00:00"
+    "lastUpdated": "2026-09-05T10:56:37+00:00"
 }
