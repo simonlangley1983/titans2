@@ -26,7 +26,18 @@
             "shortName": "Salford Town JFC U13 Lightning"
         }
     },
-    "events": [],
+    "events": [
+        {
+            "id": "goal-1788602359-0",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 1,
+            "period": "first-half",
+            "team": "away",
+            "scorer": "Opponent",
+            "assist": ""
+        }
+    ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-09-05T09:58:53+00:00"
+    "lastUpdated": "2026-09-05T09:59:19+00:00"
 }
