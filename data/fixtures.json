@@ -3,26 +3,6 @@
     "season": "2026/27",
     "matches": [
         {
-            "id": "2027-03-06-st-johns-chorlton-u13-jfc",
-            "matchFile": "data/matches/2027-03-06-st-johns-chorlton-u13-jfc.json",
-            "date": "2027-03-06",
-            "kickoff": "10:00",
-            "meetTime": "",
-            "competition": "League",
-            "venue": "Turn Moss Park Pitch 10",
-            "address": "",
-            "pitchType": "TBC",
-            "halvesMinutes": 35,
-            "home": {
-                "name": "St Johns (Chorlton) U13 JFC",
-                "shortName": "St Johns (Chorlton) U13 JFC"
-            },
-            "away": {
-                "name": "Sale United U13 Titans",
-                "shortName": "Sale United U13 Titans"
-            }
-        },
-        {
             "id": "2026-12-12-sale-united-u13-lions",
             "matchFile": "data/matches/2026-12-12-sale-united-u13-lions.json",
             "date": "2026-12-12",
@@ -260,6 +240,26 @@
             "away": {
                 "name": "Sale United U13 Titans",
                 "shortName": "Sale United U13 Titans"
+            }
+        },
+        {
+            "id": "2027-03-06-st-johns-chorlton-u13-jfc",
+            "matchFile": "data/matches/2027-03-06-st-johns-chorlton-u13-jfc.json",
+            "date": "2026-09-12",
+            "kickoff": "10:15",
+            "meetTime": "",
+            "competition": "League",
+            "venue": "Turn Moss Park Pitch 10",
+            "address": "Hough End Leisure Centre 480 Princess Road, Manchester, M20 1HD",
+            "pitchType": "Grass",
+            "halvesMinutes": 35,
+            "home": {
+                "name": "St Johns (Chorlton) U13 JFC",
+                "shortName": "St Johns (Chorlton) U13 JFC"
+            },
+            "away": {
+                "name": "Sale Utd Titans",
+                "shortName": "Sale Utd Titans"
             }
         },
         {
