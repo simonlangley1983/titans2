@@ -1,0 +1,32 @@
+{
+    "matchId": "2026-09-12-st-john-s-chorlton",
+    "status": "scheduled",
+    "statusLabel": "Not started",
+    "period": "pre-match",
+    "minute": null,
+    "firstHalfStartedAt": null,
+    "secondHalfStartedAt": null,
+    "fixture": {
+        "date": "2026-09-12",
+        "kickoff": "10:15",
+        "meetTime": "",
+        "competition": "League",
+        "venue": "Hough End playing fields #15",
+        "address": "Hough End playing fields",
+        "pitchType": "Grass",
+        "halvesMinutes": 35
+    },
+    "teams": {
+        "home": {
+            "name": "St John\u2019s Chorlton",
+            "shortName": "St John\u2019s Chorlton"
+        },
+        "away": {
+            "name": "Sale Utd Titans",
+            "shortName": "Sale Utd Titans"
+        }
+    },
+    "events": [],
+    "playerOfTheMatch": "",
+    "lastUpdated": "2026-09-11T23:07:27+00:00"
+}
