@@ -36,8 +36,18 @@
             "team": "away",
             "scorer": "Bobby",
             "assist": "Thomas B"
+        },
+        {
+            "id": "goal-1789205048-1",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 6,
+            "period": "first-half",
+            "team": "away",
+            "scorer": "Bobby",
+            "assist": "George"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-09-12T09:23:31+00:00"
+    "lastUpdated": "2026-09-12T09:24:08+00:00"
 }
