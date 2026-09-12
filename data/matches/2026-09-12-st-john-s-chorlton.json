@@ -1,9 +1,9 @@
 {
     "matchId": "2026-09-12-st-john-s-chorlton",
-    "status": "live",
-    "statusLabel": "Live - 2nd half",
-    "period": "second-half",
-    "minute": 42,
+    "status": "full-time",
+    "statusLabel": "Full time",
+    "period": "full-time",
+    "minute": 70,
     "firstHalfStartedAt": "2026-09-12T09:18:17+00:00",
     "secondHalfStartedAt": "2026-09-12T09:53:25+00:00",
     "fixture": {
@@ -69,5 +69,5 @@
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-09-12T10:00:09+00:00"
+    "lastUpdated": "2026-09-12T10:31:49+00:00"
 }
