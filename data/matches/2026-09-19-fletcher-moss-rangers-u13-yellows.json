@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 1st half",
     "period": "first-half",
-    "minute": 1,
+    "minute": 3,
     "firstHalfStartedAt": "2026-09-19T10:00:30+00:00",
     "secondHalfStartedAt": null,
     "fixture": {
@@ -26,7 +26,18 @@
             "shortName": "Sale United U13 Titans"
         }
     },
-    "events": [],
+    "events": [
+        {
+            "id": "goal-1789812158-0",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 3,
+            "period": "first-half",
+            "team": "away",
+            "scorer": "George",
+            "assist": ""
+        }
+    ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-09-19T10:00:30+00:00"
+    "lastUpdated": "2026-09-19T10:02:38+00:00"
 }
