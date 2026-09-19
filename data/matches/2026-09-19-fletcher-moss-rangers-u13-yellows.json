@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 61,
+    "minute": 65,
     "firstHalfStartedAt": "2026-09-19T10:00:30+00:00",
     "secondHalfStartedAt": "2026-09-19T10:36:13+00:00",
     "fixture": {
@@ -126,8 +126,18 @@
             "team": "away",
             "scorer": "Jay",
             "assist": ""
+        },
+        {
+            "id": "goal-1789815938-10",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 65,
+            "period": "second-half",
+            "team": "away",
+            "scorer": "George",
+            "assist": "Geraint"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-09-19T11:02:07+00:00"
+    "lastUpdated": "2026-09-19T11:05:38+00:00"
 }
