@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 36,
+    "minute": 45,
     "firstHalfStartedAt": "2026-09-19T10:00:30+00:00",
     "secondHalfStartedAt": "2026-09-19T10:36:13+00:00",
     "fixture": {
@@ -76,8 +76,18 @@
             "team": "away",
             "scorer": "Thomas H",
             "assist": "George"
+        },
+        {
+            "id": "goal-1789814756-5",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 45,
+            "period": "second-half",
+            "team": "away",
+            "scorer": "Thomas B",
+            "assist": ""
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-09-19T10:36:13+00:00"
+    "lastUpdated": "2026-09-19T10:45:56+00:00"
 }
