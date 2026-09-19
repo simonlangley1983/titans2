@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 59,
+    "minute": 61,
     "firstHalfStartedAt": "2026-09-19T10:00:30+00:00",
     "secondHalfStartedAt": "2026-09-19T10:36:13+00:00",
     "fixture": {
@@ -116,8 +116,18 @@
             "team": "away",
             "scorer": "Zayn",
             "assist": "Oli"
+        },
+        {
+            "id": "goal-1789815727-9",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 61,
+            "period": "second-half",
+            "team": "away",
+            "scorer": "Jay",
+            "assist": ""
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-09-19T10:59:29+00:00"
+    "lastUpdated": "2026-09-19T11:02:07+00:00"
 }
