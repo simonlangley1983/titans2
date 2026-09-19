@@ -1,11 +1,11 @@
 {
     "matchId": "2026-09-19-fletcher-moss-rangers-u13-yellows",
-    "status": "half-time",
-    "statusLabel": "Half time",
-    "period": "half-time",
-    "minute": 35,
+    "status": "live",
+    "statusLabel": "Live - 2nd half",
+    "period": "second-half",
+    "minute": 36,
     "firstHalfStartedAt": "2026-09-19T10:00:30+00:00",
-    "secondHalfStartedAt": null,
+    "secondHalfStartedAt": "2026-09-19T10:36:13+00:00",
     "fixture": {
         "date": "2026-09-19",
         "kickoff": "11:00",
@@ -79,5 +79,5 @@
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-09-19T10:30:38+00:00"
+    "lastUpdated": "2026-09-19T10:36:13+00:00"
 }
