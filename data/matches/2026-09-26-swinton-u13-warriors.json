@@ -1,9 +1,9 @@
 {
     "matchId": "2026-09-26-swinton-u13-warriors",
-    "status": "live",
-    "statusLabel": "Live - 1st half",
-    "period": "first-half",
-    "minute": 17,
+    "status": "half-time",
+    "statusLabel": "Half time",
+    "period": "half-time",
+    "minute": 35,
     "firstHalfStartedAt": "2026-09-26T10:40:03+00:00",
     "secondHalfStartedAt": null,
     "fixture": {
@@ -39,5 +39,5 @@
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-09-26T10:56:34+00:00"
+    "lastUpdated": "2026-09-26T11:14:25+00:00"
 }
