@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 49,
+    "minute": 53,
     "firstHalfStartedAt": "2026-09-26T10:40:03+00:00",
     "secondHalfStartedAt": "2026-09-26T11:21:09+00:00",
     "fixture": {
@@ -76,8 +76,18 @@
             "team": "away",
             "scorer": "Jay",
             "assist": "Thomas H"
+        },
+        {
+            "id": "goal-1790422724-5",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 53,
+            "period": "second-half",
+            "team": "away",
+            "scorer": "Zayn",
+            "assist": "George"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-09-26T11:34:25+00:00"
+    "lastUpdated": "2026-09-26T11:38:44+00:00"
 }
