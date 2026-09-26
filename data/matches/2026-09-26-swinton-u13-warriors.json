@@ -1,32 +1,32 @@
 {
-  "matchId": "2026-09-26-swinton-u13-warriors",
-  "status": "scheduled",
-  "statusLabel": "Not started",
-  "period": "pre-match",
-  "minute": null,
-  "firstHalfStartedAt": null,
-  "secondHalfStartedAt": null,
-  "fixture": {
-    "date": "2026-09-26",
-    "kickoff": "11:30",
-    "meetTime": "",
-    "competition": "Cup",
-    "venue": "Duncan Mathieson Playing Fields 9v9",
-    "address": "Odessa Ave, Salford M6 8LG",
-    "pitchType": "Grass",
-    "halvesMinutes": 35
-  },
-  "teams": {
-    "home": {
-      "name": "Swinton U13 Warriors",
-      "shortName": "Swinton U13 Warriors"
+    "matchId": "2026-09-26-swinton-u13-warriors",
+    "status": "live",
+    "statusLabel": "Live - 1st half",
+    "period": "first-half",
+    "minute": 1,
+    "firstHalfStartedAt": "2026-09-26T10:40:03+00:00",
+    "secondHalfStartedAt": null,
+    "fixture": {
+        "date": "2026-09-26",
+        "kickoff": "11:30",
+        "meetTime": "",
+        "competition": "Cup",
+        "venue": "Duncan Mathieson Playing Fields 9v9",
+        "address": "Odessa Ave, Salford M6 8LG",
+        "pitchType": "Grass",
+        "halvesMinutes": 35
     },
-    "away": {
-      "name": "Sale United Titans U13",
-      "shortName": "Sale United Titans U13"
-    }
-  },
-  "events": [],
-  "playerOfTheMatch": "",
-  "lastUpdated": "2026-09-25T20:18:05.5751462Z"
+    "teams": {
+        "home": {
+            "name": "Swinton U13 Warriors",
+            "shortName": "Swinton U13 Warriors"
+        },
+        "away": {
+            "name": "Sale United Titans U13",
+            "shortName": "Sale United Titans U13"
+        }
+    },
+    "events": [],
+    "playerOfTheMatch": "",
+    "lastUpdated": "2026-09-26T10:40:03+00:00"
 }
