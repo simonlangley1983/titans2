@@ -76,8 +76,18 @@
             "team": "home",
             "scorer": "Opponent",
             "assist": ""
+        },
+        {
+            "id": "goal-1791024041-5",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 36,
+            "period": "second-half",
+            "team": "home",
+            "scorer": "Opponent",
+            "assist": ""
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-10-03T10:39:49+00:00"
+    "lastUpdated": "2026-10-03T10:40:41+00:00"
 }
