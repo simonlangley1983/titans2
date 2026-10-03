@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 36,
+    "minute": 44,
     "firstHalfStartedAt": "2026-10-03T10:01:24+00:00",
     "secondHalfStartedAt": "2026-10-03T10:39:49+00:00",
     "fixture": {
@@ -86,8 +86,18 @@
             "team": "home",
             "scorer": "Opponent",
             "assist": ""
+        },
+        {
+            "id": "goal-1791024505-6",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 44,
+            "period": "second-half",
+            "team": "away",
+            "scorer": "Jay",
+            "assist": "Eric"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-10-03T10:40:41+00:00"
+    "lastUpdated": "2026-10-03T10:48:25+00:00"
 }
