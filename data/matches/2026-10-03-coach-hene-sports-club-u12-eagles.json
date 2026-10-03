@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 44,
+    "minute": 55,
     "firstHalfStartedAt": "2026-10-03T10:01:24+00:00",
     "secondHalfStartedAt": "2026-10-03T10:39:49+00:00",
     "fixture": {
@@ -96,8 +96,18 @@
             "team": "away",
             "scorer": "Jay",
             "assist": "Eric"
+        },
+        {
+            "id": "goal-1791025156-7",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 55,
+            "period": "second-half",
+            "team": "away",
+            "scorer": "Thomas H",
+            "assist": ""
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-10-03T10:48:25+00:00"
+    "lastUpdated": "2026-10-03T10:59:16+00:00"
 }
