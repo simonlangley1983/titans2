@@ -1,11 +1,11 @@
 {
     "matchId": "2026-10-03-coach-hene-sports-club-u12-eagles",
-    "status": "half-time",
-    "statusLabel": "Half time",
-    "period": "half-time",
-    "minute": 35,
+    "status": "live",
+    "statusLabel": "Live - 2nd half",
+    "period": "second-half",
+    "minute": 36,
     "firstHalfStartedAt": "2026-10-03T10:01:24+00:00",
-    "secondHalfStartedAt": null,
+    "secondHalfStartedAt": "2026-10-03T10:39:49+00:00",
     "fixture": {
         "date": "2026-10-03",
         "kickoff": "10:30",
@@ -79,5 +79,5 @@
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-10-03T10:31:54+00:00"
+    "lastUpdated": "2026-10-03T10:39:49+00:00"
 }
