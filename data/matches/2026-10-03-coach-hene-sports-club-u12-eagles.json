@@ -1,113 +1,113 @@
 {
-    "matchId": "2026-10-03-coach-hene-sports-club-u12-eagles",
-    "status": "full-time",
-    "statusLabel": "Full time",
-    "period": "full-time",
-    "minute": 70,
-    "firstHalfStartedAt": "2026-10-03T10:01:24+00:00",
-    "secondHalfStartedAt": "2026-10-03T10:39:49+00:00",
-    "fixture": {
-        "date": "2026-10-03",
-        "kickoff": "10:30",
-        "meetTime": "",
-        "competition": "League",
-        "venue": "Droylsden Academy",
-        "address": "",
-        "pitchType": "TBC",
-        "halvesMinutes": 35
+  "matchId": "2026-10-03-coach-hene-sports-club-u12-eagles",
+  "status": "full-time",
+  "statusLabel": "Full time",
+  "period": "full-time",
+  "minute": 70,
+  "firstHalfStartedAt": "2026-10-03T11:01:24+01:00",
+  "secondHalfStartedAt": "2026-10-03T11:39:49+01:00",
+  "fixture": {
+    "date": "2026-10-03",
+    "kickoff": "10:30",
+    "meetTime": "",
+    "competition": "League",
+    "venue": "Droylsden Academy",
+    "address": "",
+    "pitchType": "TBC",
+    "halvesMinutes": 30
+  },
+  "teams": {
+    "home": {
+      "name": "Coach Hene Sports Club U12 Eagles",
+      "shortName": "Coach Hene Sports Club U12 Eagles"
     },
-    "teams": {
-        "home": {
-            "name": "Coach Hene Sports Club U12 Eagles",
-            "shortName": "Coach Hene Sports Club U12 Eagles"
-        },
-        "away": {
-            "name": "Sale United U13 Titans",
-            "shortName": "Sale United U13 Titans"
-        }
+    "away": {
+      "name": "Sale United U13 Titans",
+      "shortName": "Sale United U13 Titans"
+    }
+  },
+  "events": [
+    {
+      "id": "goal-1791021804-0",
+      "type": "goal",
+      "goalType": "normal",
+      "minute": 3,
+      "period": "first-half",
+      "team": "away",
+      "scorer": "Thomas B",
+      "assist": "George"
     },
-    "events": [
-        {
-            "id": "goal-1791021804-0",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 3,
-            "period": "first-half",
-            "team": "away",
-            "scorer": "Thomas B",
-            "assist": "George"
-        },
-        {
-            "id": "goal-1791021940-1",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 5,
-            "period": "first-half",
-            "team": "away",
-            "scorer": "George",
-            "assist": "Noah"
-        },
-        {
-            "id": "goal-1791022348-2",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 12,
-            "period": "first-half",
-            "team": "away",
-            "scorer": "Jay",
-            "assist": "George"
-        },
-        {
-            "id": "goal-1791023128-3",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 25,
-            "period": "first-half",
-            "team": "home",
-            "scorer": "Opponent",
-            "assist": ""
-        },
-        {
-            "id": "goal-1791023416-4",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 29,
-            "period": "first-half",
-            "team": "home",
-            "scorer": "Opponent",
-            "assist": ""
-        },
-        {
-            "id": "goal-1791024041-5",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 36,
-            "period": "second-half",
-            "team": "home",
-            "scorer": "Opponent",
-            "assist": ""
-        },
-        {
-            "id": "goal-1791024505-6",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 44,
-            "period": "second-half",
-            "team": "away",
-            "scorer": "Jay",
-            "assist": "Eric"
-        },
-        {
-            "id": "goal-1791025156-7",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 55,
-            "period": "second-half",
-            "team": "away",
-            "scorer": "Thomas H",
-            "assist": ""
-        }
-    ],
-    "playerOfTheMatch": "Geraint",
-    "lastUpdated": "2026-10-03T11:11:32+00:00"
+    {
+      "id": "goal-1791021940-1",
+      "type": "goal",
+      "goalType": "normal",
+      "minute": 5,
+      "period": "first-half",
+      "team": "away",
+      "scorer": "George",
+      "assist": "Noah"
+    },
+    {
+      "id": "goal-1791022348-2",
+      "type": "goal",
+      "goalType": "normal",
+      "minute": 12,
+      "period": "first-half",
+      "team": "away",
+      "scorer": "Jay",
+      "assist": "George"
+    },
+    {
+      "id": "goal-1791023128-3",
+      "type": "goal",
+      "goalType": "normal",
+      "minute": 25,
+      "period": "first-half",
+      "team": "home",
+      "scorer": "Opponent",
+      "assist": ""
+    },
+    {
+      "id": "goal-1791023416-4",
+      "type": "goal",
+      "goalType": "normal",
+      "minute": 29,
+      "period": "first-half",
+      "team": "home",
+      "scorer": "Opponent",
+      "assist": ""
+    },
+    {
+      "id": "goal-1791024041-5",
+      "type": "goal",
+      "goalType": "normal",
+      "minute": 36,
+      "period": "second-half",
+      "team": "home",
+      "scorer": "Opponent",
+      "assist": ""
+    },
+    {
+      "id": "goal-1791024505-6",
+      "type": "goal",
+      "goalType": "normal",
+      "minute": 44,
+      "period": "second-half",
+      "team": "away",
+      "scorer": "Jay",
+      "assist": "Eric"
+    },
+    {
+      "id": "goal-1791025156-7",
+      "type": "goal",
+      "goalType": "normal",
+      "minute": 55,
+      "period": "second-half",
+      "team": "away",
+      "scorer": "Thomas H",
+      "assist": ""
+    }
+  ],
+  "playerOfTheMatch": "Geraint",
+  "lastUpdated": "2026-10-03T12:11:32+01:00"
 }

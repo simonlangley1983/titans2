@@ -1,32 +1,32 @@
 {
-    "matchId": "2026-10-03-coach-hene",
-    "status": "scheduled",
-    "statusLabel": "Not started",
-    "period": "pre-match",
-    "minute": null,
-    "firstHalfStartedAt": null,
-    "secondHalfStartedAt": null,
-    "fixture": {
-        "date": "2026-10-03",
-        "kickoff": "11:00",
-        "meetTime": "",
-        "competition": "League",
-        "venue": "Droylsden Academy",
-        "address": "",
-        "pitchType": "Grass",
-        "halvesMinutes": 35
+  "matchId": "2026-10-03-coach-hene",
+  "status": "scheduled",
+  "statusLabel": "Not started",
+  "period": "pre-match",
+  "minute": null,
+  "firstHalfStartedAt": null,
+  "secondHalfStartedAt": null,
+  "fixture": {
+    "date": "2026-10-03",
+    "kickoff": "11:00",
+    "meetTime": "",
+    "competition": "League",
+    "venue": "Droylsden Academy",
+    "address": "",
+    "pitchType": "Grass",
+    "halvesMinutes": 30
+  },
+  "teams": {
+    "home": {
+      "name": "Coach Hene",
+      "shortName": "Coach Hene"
     },
-    "teams": {
-        "home": {
-            "name": "Coach Hene",
-            "shortName": "Coach Hene"
-        },
-        "away": {
-            "name": "Sale United Titans U13",
-            "shortName": "Sale United Titans U13"
-        }
-    },
-    "events": [],
-    "playerOfTheMatch": "",
-    "lastUpdated": "2026-10-03T09:45:39+00:00"
+    "away": {
+      "name": "Sale United Titans U13",
+      "shortName": "Sale United Titans U13"
+    }
+  },
+  "events": [],
+  "playerOfTheMatch": "",
+  "lastUpdated": "2026-10-03T10:45:39+01:00"
 }

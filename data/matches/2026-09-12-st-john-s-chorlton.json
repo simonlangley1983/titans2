@@ -1,73 +1,73 @@
 {
-    "matchId": "2026-09-12-st-john-s-chorlton",
-    "status": "full-time",
-    "statusLabel": "Full time",
-    "period": "full-time",
-    "minute": 70,
-    "firstHalfStartedAt": "2026-09-12T09:18:17+00:00",
-    "secondHalfStartedAt": "2026-09-12T09:53:25+00:00",
-    "fixture": {
-        "date": "2026-09-12",
-        "kickoff": "10:15",
-        "meetTime": "",
-        "competition": "League",
-        "venue": "Hough End playing fields #15",
-        "address": "Hough End playing fields",
-        "pitchType": "Grass",
-        "halvesMinutes": 35
+  "matchId": "2026-09-12-st-john-s-chorlton",
+  "status": "full-time",
+  "statusLabel": "Full time",
+  "period": "full-time",
+  "minute": 70,
+  "firstHalfStartedAt": "2026-09-12T10:18:17+01:00",
+  "secondHalfStartedAt": "2026-09-12T10:53:25+01:00",
+  "fixture": {
+    "date": "2026-09-12",
+    "kickoff": "10:15",
+    "meetTime": "",
+    "competition": "League",
+    "venue": "Hough End playing fields #15",
+    "address": "Hough End playing fields",
+    "pitchType": "Grass",
+    "halvesMinutes": 30
+  },
+  "teams": {
+    "home": {
+      "name": "St John’s Chorlton",
+      "shortName": "St John’s Chorlton"
     },
-    "teams": {
-        "home": {
-            "name": "St John\u2019s Chorlton",
-            "shortName": "St John\u2019s Chorlton"
-        },
-        "away": {
-            "name": "Sale United U13 Titans",
-            "shortName": "Sale United U13 Titans"
-        }
+    "away": {
+      "name": "Sale United U13 Titans",
+      "shortName": "Sale United U13 Titans"
+    }
+  },
+  "events": [
+    {
+      "id": "goal-1789205011-0",
+      "type": "goal",
+      "goalType": "normal",
+      "minute": 6,
+      "period": "first-half",
+      "team": "away",
+      "scorer": "Bobby",
+      "assist": "Thomas B"
     },
-    "events": [
-        {
-            "id": "goal-1789205011-0",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 6,
-            "period": "first-half",
-            "team": "away",
-            "scorer": "Bobby",
-            "assist": "Thomas B"
-        },
-        {
-            "id": "goal-1789205048-1",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 6,
-            "period": "first-half",
-            "team": "away",
-            "scorer": "Bobby",
-            "assist": "George"
-        },
-        {
-            "id": "goal-1789206196-2",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 25,
-            "period": "first-half",
-            "team": "home",
-            "scorer": "Opponent",
-            "assist": ""
-        },
-        {
-            "id": "goal-1789207209-3",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 42,
-            "period": "second-half",
-            "team": "away",
-            "scorer": "Jay",
-            "assist": "Eric"
-        }
-    ],
-    "playerOfTheMatch": "Noah",
-    "lastUpdated": "2026-09-12T10:33:23+00:00"
+    {
+      "id": "goal-1789205048-1",
+      "type": "goal",
+      "goalType": "normal",
+      "minute": 6,
+      "period": "first-half",
+      "team": "away",
+      "scorer": "Bobby",
+      "assist": "George"
+    },
+    {
+      "id": "goal-1789206196-2",
+      "type": "goal",
+      "goalType": "normal",
+      "minute": 25,
+      "period": "first-half",
+      "team": "home",
+      "scorer": "Opponent",
+      "assist": ""
+    },
+    {
+      "id": "goal-1789207209-3",
+      "type": "goal",
+      "goalType": "normal",
+      "minute": 42,
+      "period": "second-half",
+      "team": "away",
+      "scorer": "Jay",
+      "assist": "Eric"
+    }
+  ],
+  "playerOfTheMatch": "Noah",
+  "lastUpdated": "2026-09-12T11:33:23+01:00"
 }

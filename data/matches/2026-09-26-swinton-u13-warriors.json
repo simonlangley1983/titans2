@@ -1,93 +1,93 @@
 {
-    "matchId": "2026-09-26-swinton-u13-warriors",
-    "status": "full-time",
-    "statusLabel": "Full time",
-    "period": "full-time",
-    "minute": 70,
-    "firstHalfStartedAt": "2026-09-26T10:40:03+00:00",
-    "secondHalfStartedAt": "2026-09-26T11:21:09+00:00",
-    "fixture": {
-        "date": "2026-09-26",
-        "kickoff": "11:30",
-        "meetTime": "",
-        "competition": "Cup",
-        "venue": "Duncan Mathieson Playing Fields 9v9",
-        "address": "Odessa Ave, Salford M6 8LG",
-        "pitchType": "Grass",
-        "halvesMinutes": 35
+  "matchId": "2026-09-26-swinton-u13-warriors",
+  "status": "full-time",
+  "statusLabel": "Full time",
+  "period": "full-time",
+  "minute": 70,
+  "firstHalfStartedAt": "2026-09-26T11:40:03+01:00",
+  "secondHalfStartedAt": "2026-09-26T12:21:09+01:00",
+  "fixture": {
+    "date": "2026-09-26",
+    "kickoff": "11:30",
+    "meetTime": "",
+    "competition": "Cup",
+    "venue": "Duncan Mathieson Playing Fields 9v9",
+    "address": "Odessa Ave, Salford M6 8LG",
+    "pitchType": "Grass",
+    "halvesMinutes": 30
+  },
+  "teams": {
+    "home": {
+      "name": "Swinton U13 Warriors",
+      "shortName": "Swinton U13 Warriors"
     },
-    "teams": {
-        "home": {
-            "name": "Swinton U13 Warriors",
-            "shortName": "Swinton U13 Warriors"
-        },
-        "away": {
-            "name": "Sale United Titans U13",
-            "shortName": "Sale United Titans U13"
-        }
+    "away": {
+      "name": "Sale United Titans U13",
+      "shortName": "Sale United Titans U13"
+    }
+  },
+  "events": [
+    {
+      "id": "goal-1790420194-0",
+      "type": "goal",
+      "goalType": "normal",
+      "minute": 17,
+      "period": "first-half",
+      "team": "away",
+      "scorer": "Bobby",
+      "assist": ""
     },
-    "events": [
-        {
-            "id": "goal-1790420194-0",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 17,
-            "period": "first-half",
-            "team": "away",
-            "scorer": "Bobby",
-            "assist": ""
-        },
-        {
-            "id": "goal-1790421684-1",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 36,
-            "period": "second-half",
-            "team": "away",
-            "scorer": "Jay",
-            "assist": "George"
-        },
-        {
-            "id": "goal-1790422226-2",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 45,
-            "period": "second-half",
-            "team": "away",
-            "scorer": "Jay",
-            "assist": "Thomas B"
-        },
-        {
-            "id": "goal-1790422265-3",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 45,
-            "period": "second-half",
-            "team": "away",
-            "scorer": "Thomas B",
-            "assist": ""
-        },
-        {
-            "id": "goal-1790422465-4",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 49,
-            "period": "second-half",
-            "team": "away",
-            "scorer": "Jay",
-            "assist": "Thomas H"
-        },
-        {
-            "id": "goal-1790422724-5",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 53,
-            "period": "second-half",
-            "team": "away",
-            "scorer": "Zayn",
-            "assist": "George"
-        }
-    ],
-    "playerOfTheMatch": "Jay",
-    "lastUpdated": "2026-09-26T11:52:47+00:00"
+    {
+      "id": "goal-1790421684-1",
+      "type": "goal",
+      "goalType": "normal",
+      "minute": 36,
+      "period": "second-half",
+      "team": "away",
+      "scorer": "Jay",
+      "assist": "George"
+    },
+    {
+      "id": "goal-1790422226-2",
+      "type": "goal",
+      "goalType": "normal",
+      "minute": 45,
+      "period": "second-half",
+      "team": "away",
+      "scorer": "Jay",
+      "assist": "Thomas B"
+    },
+    {
+      "id": "goal-1790422265-3",
+      "type": "goal",
+      "goalType": "normal",
+      "minute": 45,
+      "period": "second-half",
+      "team": "away",
+      "scorer": "Thomas B",
+      "assist": ""
+    },
+    {
+      "id": "goal-1790422465-4",
+      "type": "goal",
+      "goalType": "normal",
+      "minute": 49,
+      "period": "second-half",
+      "team": "away",
+      "scorer": "Jay",
+      "assist": "Thomas H"
+    },
+    {
+      "id": "goal-1790422724-5",
+      "type": "goal",
+      "goalType": "normal",
+      "minute": 53,
+      "period": "second-half",
+      "team": "away",
+      "scorer": "Zayn",
+      "assist": "George"
+    }
+  ],
+  "playerOfTheMatch": "Jay",
+  "lastUpdated": "2026-09-26T12:52:47+01:00"
 }

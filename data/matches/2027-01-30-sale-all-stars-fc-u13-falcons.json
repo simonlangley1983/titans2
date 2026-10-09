@@ -14,7 +14,7 @@
     "venue": "Crossford Bridge Pitch 1",
     "address": "",
     "pitchType": "TBC",
-    "halvesMinutes": 35
+    "halvesMinutes": 30
   },
   "teams": {
     "home": {
@@ -28,5 +28,5 @@
   },
   "events": [],
   "playerOfTheMatch": "",
-  "lastUpdated": "2026-10-09T20:40:18.5055000Z"
+  "lastUpdated": "2026-10-09T20:40:18.5055Z"
 }
