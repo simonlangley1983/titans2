@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 1st half",
     "period": "first-half",
-    "minute": 1,
+    "minute": 3,
     "firstHalfStartedAt": "2026-10-10T10:00:51+00:00",
     "secondHalfStartedAt": null,
     "fixture": {
@@ -26,7 +26,18 @@
             "shortName": "Stockport Vikings Football Club U13 Barb"
         }
     },
-    "events": [],
+    "events": [
+        {
+            "id": "goal-1791626580-0",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 3,
+            "period": "first-half",
+            "team": "home",
+            "scorer": "Jay",
+            "assist": "Oli"
+        }
+    ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-10-10T10:00:51+00:00"
+    "lastUpdated": "2026-10-10T10:03:00+00:00"
 }
