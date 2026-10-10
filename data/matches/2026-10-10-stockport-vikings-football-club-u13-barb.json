@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 1st half",
     "period": "first-half",
-    "minute": 3,
+    "minute": 8,
     "firstHalfStartedAt": "2026-10-10T10:00:51+00:00",
     "secondHalfStartedAt": null,
     "fixture": {
@@ -36,8 +36,18 @@
             "team": "home",
             "scorer": "Jay",
             "assist": "Oli"
+        },
+        {
+            "id": "goal-1791626914-1",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 8,
+            "period": "first-half",
+            "team": "home",
+            "scorer": "Jay",
+            "assist": "Thomas B"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-10-10T10:03:00+00:00"
+    "lastUpdated": "2026-10-10T10:08:34+00:00"
 }
