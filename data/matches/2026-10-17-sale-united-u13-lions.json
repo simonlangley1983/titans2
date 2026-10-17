@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 31,
+    "minute": 33,
     "firstHalfStartedAt": "2026-10-17T09:58:40+00:00",
     "secondHalfStartedAt": "2026-10-17T10:31:52+00:00",
     "fixture": {
@@ -66,8 +66,18 @@
             "team": "home",
             "scorer": "Jay",
             "assist": "Oli"
+        },
+        {
+            "id": "goal-1792233247-4",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 33,
+            "period": "second-half",
+            "team": "home",
+            "scorer": "Jay",
+            "assist": "Noah"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-10-17T10:31:52+00:00"
+    "lastUpdated": "2026-10-17T10:34:07+00:00"
 }
