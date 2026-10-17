@@ -38,16 +38,6 @@
             "assist": ""
         },
         {
-            "id": "goal-1792231972-1",
-            "type": "goal",
-            "goalType": "normal",
-            "minute": 15,
-            "period": "first-half",
-            "team": "home",
-            "scorer": "Oli",
-            "assist": "Jay"
-        },
-        {
             "id": "goal-1792232431-2",
             "type": "goal",
             "goalType": "normal",
@@ -79,5 +69,5 @@
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-10-17T10:31:00+00:00"
+    "lastUpdated": "2026-10-17T10:31:10+00:00"
 }
