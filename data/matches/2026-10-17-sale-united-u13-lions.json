@@ -66,8 +66,18 @@
             "team": "home",
             "scorer": "Thomas B",
             "assist": "George"
+        },
+        {
+            "id": "goal-1792233060-4",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 30,
+            "period": "half-time",
+            "team": "home",
+            "scorer": "Jay",
+            "assist": "Oli"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-10-17T10:27:44+00:00"
+    "lastUpdated": "2026-10-17T10:31:00+00:00"
 }
