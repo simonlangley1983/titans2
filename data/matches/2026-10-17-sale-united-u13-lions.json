@@ -1,9 +1,9 @@
 {
     "matchId": "2026-10-17-sale-united-u13-lions",
-    "status": "live",
-    "statusLabel": "Live - 2nd half",
-    "period": "second-half",
-    "minute": 40,
+    "status": "full-time",
+    "statusLabel": "Full time",
+    "period": "full-time",
+    "minute": 60,
     "firstHalfStartedAt": "2026-10-17T09:58:40+00:00",
     "secondHalfStartedAt": "2026-10-17T10:31:52+00:00",
     "fixture": {
@@ -89,5 +89,5 @@
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-10-17T10:41:00+00:00"
+    "lastUpdated": "2026-10-17T11:01:15+00:00"
 }
