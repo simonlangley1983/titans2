@@ -166,7 +166,7 @@
             "id": "2026-10-24-swinton-u13-wolves",
             "matchFile": "data/matches/2026-10-24-swinton-u13-wolves.json",
             "date": "2026-10-24",
-            "kickoff": "09:00",
+            "kickoff": "11:00",
             "meetTime": "",
             "competition": "League",
             "venue": "Crossford Bridge Pitch 1",
@@ -174,8 +174,8 @@
             "pitchType": "TBC",
             "halvesMinutes": 30,
             "home": {
-                "name": "Sale United U13 Titans",
-                "shortName": "Sale United U13 Titans"
+                "name": "Sale United Titans U13",
+                "shortName": "Sale United Titans U13"
             },
             "away": {
                 "name": "Swinton U13 Wolves",
