@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 1st half",
     "period": "first-half",
-    "minute": 6,
+    "minute": 8,
     "firstHalfStartedAt": "2026-10-31T11:49:13+00:00",
     "secondHalfStartedAt": null,
     "fixture": {
@@ -36,8 +36,18 @@
             "team": "home",
             "scorer": "Opponent",
             "assist": ""
+        },
+        {
+            "id": "goal-1793447820-1",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 8,
+            "period": "first-half",
+            "team": "away",
+            "scorer": "Oli",
+            "assist": "George"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-10-31T11:54:24+00:00"
+    "lastUpdated": "2026-10-31T11:57:00+00:00"
 }
