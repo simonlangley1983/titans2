@@ -1,9 +1,9 @@
 {
     "matchId": "2026-10-31-salford-town-jfc-u13-lightning",
-    "status": "live",
-    "statusLabel": "Live - 1st half",
-    "period": "first-half",
-    "minute": 8,
+    "status": "half-time",
+    "statusLabel": "Half time",
+    "period": "half-time",
+    "minute": 30,
     "firstHalfStartedAt": "2026-10-31T11:49:13+00:00",
     "secondHalfStartedAt": null,
     "fixture": {
@@ -49,5 +49,5 @@
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-10-31T11:57:00+00:00"
+    "lastUpdated": "2026-10-31T12:18:57+00:00"
 }
