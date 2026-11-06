@@ -1,0 +1,32 @@
+{
+    "matchId": "2026-11-07-timperley-fc-u13-bulls",
+    "status": "scheduled",
+    "statusLabel": "Not started",
+    "period": "pre-match",
+    "minute": null,
+    "firstHalfStartedAt": null,
+    "secondHalfStartedAt": null,
+    "fixture": {
+        "date": "2026-11-07",
+        "kickoff": "10:30",
+        "meetTime": "",
+        "competition": "Cup",
+        "venue": "Timperley Sports Club",
+        "address": "",
+        "pitchType": "TBC",
+        "halvesMinutes": 30
+    },
+    "teams": {
+        "home": {
+            "name": "Timperley FC U13 Bulls",
+            "shortName": "Timperley FC U13 Bulls"
+        },
+        "away": {
+            "name": "Sale United U13 Titans",
+            "shortName": "Sale United U13 Titans"
+        }
+    },
+    "events": [],
+    "playerOfTheMatch": "",
+    "lastUpdated": "2026-11-06T22:48:55.460Z"
+}

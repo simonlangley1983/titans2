@@ -1,32 +1,32 @@
 {
-  "matchId": "2026-11-14-swinton-u13-wolves",
-  "status": "scheduled",
-  "statusLabel": "Not started",
-  "period": "pre-match",
-  "minute": null,
-  "firstHalfStartedAt": null,
-  "secondHalfStartedAt": null,
-  "fixture": {
-    "date": "2026-11-14",
-    "kickoff": "09:00",
-    "meetTime": "",
-    "competition": "League",
-    "venue": "Duncan Mathieson Playing Fields",
-    "address": "",
-    "pitchType": "TBC",
-    "halvesMinutes": 30
-  },
-  "teams": {
-    "home": {
-      "name": "Swinton U13 Wolves",
-      "shortName": "Swinton U13 Wolves"
+    "matchId": "2026-11-14-swinton-u13-wolves",
+    "status": "scheduled",
+    "statusLabel": "Not started",
+    "period": "pre-match",
+    "minute": null,
+    "firstHalfStartedAt": null,
+    "secondHalfStartedAt": null,
+    "fixture": {
+        "date": "2026-11-14",
+        "kickoff": "09:00",
+        "meetTime": "",
+        "competition": "League",
+        "venue": "Duncan Mathieson Playing Fields 9v9",
+        "address": "",
+        "pitchType": "TBC",
+        "halvesMinutes": 30
     },
-    "away": {
-      "name": "Sale United U13 Titans",
-      "shortName": "Sale United U13 Titans"
-    }
-  },
-  "events": [],
-  "playerOfTheMatch": "",
-  "lastUpdated": "2026-09-02T21:18:10.919Z"
+    "teams": {
+        "home": {
+            "name": "Swinton U13 Wolves",
+            "shortName": "Swinton U13 Wolves"
+        },
+        "away": {
+            "name": "Sale United U13 Titans",
+            "shortName": "Sale United U13 Titans"
+        }
+    },
+    "events": [],
+    "playerOfTheMatch": "",
+    "lastUpdated": "2026-11-06T22:48:55.463Z"
 }

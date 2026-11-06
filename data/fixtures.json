@@ -203,23 +203,23 @@
             }
         },
         {
-            "id": "2026-11-07-fletcher-moss-rangers-u13-yellows",
-            "matchFile": "data/matches/2026-11-07-fletcher-moss-rangers-u13-yellows.json",
+            "id": "2026-11-07-timperley-fc-u13-bulls",
+            "matchFile": "data/matches/2026-11-07-timperley-fc-u13-bulls.json",
             "date": "2026-11-07",
-            "kickoff": "09:00",
+            "kickoff": "10:30",
             "meetTime": "",
-            "competition": "League",
-            "venue": "Crossford Bridge Pitch 1",
+            "competition": "Cup",
+            "venue": "Timperley Sports Club",
             "address": "",
             "pitchType": "TBC",
             "halvesMinutes": 30,
             "home": {
-                "name": "Sale United U13 Titans",
-                "shortName": "Sale United U13 Titans"
+                "name": "Timperley FC U13 Bulls",
+                "shortName": "Timperley FC U13 Bulls"
             },
             "away": {
-                "name": "Fletcher Moss Rangers U13 Yellows",
-                "shortName": "Fletcher Moss Rangers U13 Yellows"
+                "name": "Sale United U13 Titans",
+                "shortName": "Sale United U13 Titans"
             }
         },
         {
@@ -229,7 +229,7 @@
             "kickoff": "09:00",
             "meetTime": "",
             "competition": "League",
-            "venue": "Duncan Mathieson Playing Fields",
+            "venue": "Duncan Mathieson Playing Fields 9v9",
             "address": "",
             "pitchType": "TBC",
             "halvesMinutes": 30,
@@ -243,10 +243,10 @@
             }
         },
         {
-            "id": "2026-11-21-coach-hene-sports-club-u12-eagles",
-            "matchFile": "data/matches/2026-11-21-coach-hene-sports-club-u12-eagles.json",
+            "id": "2026-11-21-coach-hene-sports-club-u13-eagles",
+            "matchFile": "data/matches/2026-11-21-coach-hene-sports-club-u13-eagles.json",
             "date": "2026-11-21",
-            "kickoff": "09:00",
+            "kickoff": "09:30",
             "meetTime": "",
             "competition": "League",
             "venue": "Crossford Bridge Pitch 1",
@@ -258,8 +258,8 @@
                 "shortName": "Sale United U13 Titans"
             },
             "away": {
-                "name": "Coach Hene Sports Club U12 Eagles",
-                "shortName": "Coach Hene Sports Club U12 Eagles"
+                "name": "Coach Hene Sports Club U13 Eagles",
+                "shortName": "Coach Hene Sports Club U13 Eagles"
             }
         },
         {
@@ -269,7 +269,7 @@
             "kickoff": "09:00",
             "meetTime": "",
             "competition": "League",
-            "venue": "Stockport County FC Training Centre",
+            "venue": "Stockport County FC Training Centre 9v9",
             "address": "",
             "pitchType": "TBC",
             "halvesMinutes": 30,
@@ -303,10 +303,30 @@
             }
         },
         {
+            "id": "2026-12-19-fletcher-moss-rangers-u13-yellows",
+            "matchFile": "data/matches/2026-12-19-fletcher-moss-rangers-u13-yellows.json",
+            "date": "2026-12-19",
+            "kickoff": "11:00",
+            "meetTime": "",
+            "competition": "League",
+            "venue": "Crossford Bridge Pitch 1",
+            "address": "",
+            "pitchType": "TBC",
+            "halvesMinutes": 30,
+            "home": {
+                "name": "Sale United U13 Titans",
+                "shortName": "Sale United U13 Titans"
+            },
+            "away": {
+                "name": "Fletcher Moss Rangers U13 Yellows",
+                "shortName": "Fletcher Moss Rangers U13 Yellows"
+            }
+        },
+        {
             "id": "2027-01-30-sale-all-stars-fc-u13-falcons",
             "matchFile": "data/matches/2027-01-30-sale-all-stars-fc-u13-falcons.json",
             "date": "2027-01-30",
-            "kickoff": "09:00",
+            "kickoff": "11:00",
             "meetTime": "",
             "competition": "League",
             "venue": "Crossford Bridge Pitch 1",
@@ -326,7 +346,7 @@
             "id": "2027-03-06-st-johns-chorlton-u13-jfc",
             "matchFile": "data/matches/2027-03-06-st-johns-chorlton-u13-jfc.json",
             "date": "2027-03-06",
-            "kickoff": "09:00",
+            "kickoff": "11:00",
             "meetTime": "",
             "competition": "League",
             "venue": "Crossford Bridge Pitch 1",
