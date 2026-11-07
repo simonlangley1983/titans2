@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 50,
+    "minute": 52,
     "firstHalfStartedAt": "2026-11-07T10:36:56+00:00",
     "secondHalfStartedAt": "2026-11-07T11:10:47+00:00",
     "fixture": {
@@ -46,8 +46,18 @@
             "team": "home",
             "scorer": "Opponent",
             "assist": ""
+        },
+        {
+            "id": "goal-1794051116-2",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 52,
+            "period": "second-half",
+            "team": "away",
+            "scorer": "Ife",
+            "assist": ""
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-11-07T11:30:19+00:00"
+    "lastUpdated": "2026-11-07T11:31:56+00:00"
 }
