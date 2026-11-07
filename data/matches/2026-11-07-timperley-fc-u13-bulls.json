@@ -1,11 +1,11 @@
 {
     "matchId": "2026-11-07-timperley-fc-u13-bulls",
-    "status": "half-time",
-    "statusLabel": "Half time",
-    "period": "half-time",
-    "minute": 30,
+    "status": "live",
+    "statusLabel": "Live - 2nd half",
+    "period": "second-half",
+    "minute": 31,
     "firstHalfStartedAt": "2026-11-07T10:36:56+00:00",
-    "secondHalfStartedAt": null,
+    "secondHalfStartedAt": "2026-11-07T11:10:47+00:00",
     "fixture": {
         "date": "2026-11-07",
         "kickoff": "10:30",
@@ -28,5 +28,5 @@
     },
     "events": [],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-11-07T11:05:59+00:00"
+    "lastUpdated": "2026-11-07T11:10:47+00:00"
 }
