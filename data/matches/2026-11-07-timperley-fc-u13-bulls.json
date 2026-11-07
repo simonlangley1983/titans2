@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 43,
+    "minute": 50,
     "firstHalfStartedAt": "2026-11-07T10:36:56+00:00",
     "secondHalfStartedAt": "2026-11-07T11:10:47+00:00",
     "fixture": {
@@ -36,8 +36,18 @@
             "team": "home",
             "scorer": "Opponent",
             "assist": ""
+        },
+        {
+            "id": "goal-1794051019-1",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 50,
+            "period": "second-half",
+            "team": "home",
+            "scorer": "Opponent",
+            "assist": ""
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-11-07T11:23:23+00:00"
+    "lastUpdated": "2026-11-07T11:30:19+00:00"
 }
