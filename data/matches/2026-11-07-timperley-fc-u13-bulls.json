@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 31,
+    "minute": 43,
     "firstHalfStartedAt": "2026-11-07T10:36:56+00:00",
     "secondHalfStartedAt": "2026-11-07T11:10:47+00:00",
     "fixture": {
@@ -26,7 +26,18 @@
             "shortName": "Sale United U13 Titans"
         }
     },
-    "events": [],
+    "events": [
+        {
+            "id": "goal-1794050603-0",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 43,
+            "period": "second-half",
+            "team": "home",
+            "scorer": "Opponent",
+            "assist": ""
+        }
+    ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-11-07T11:10:47+00:00"
+    "lastUpdated": "2026-11-07T11:23:23+00:00"
 }
