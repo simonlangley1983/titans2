@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 31,
+    "minute": 50,
     "firstHalfStartedAt": "2026-11-14T08:58:46+00:00",
     "secondHalfStartedAt": "2026-11-14T09:32:59+00:00",
     "fixture": {
@@ -86,8 +86,18 @@
             "team": "away",
             "scorer": "Ife",
             "assist": "Jay"
+        },
+        {
+            "id": "goal-1794649926-6",
+            "type": "goal",
+            "goalType": "own_goal",
+            "minute": 50,
+            "period": "second-half",
+            "team": "away",
+            "scorer": "Own goal",
+            "assist": ""
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-11-14T09:32:59+00:00"
+    "lastUpdated": "2026-11-14T09:52:06+00:00"
 }
