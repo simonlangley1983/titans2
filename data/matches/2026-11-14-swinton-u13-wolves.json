@@ -1,11 +1,11 @@
 {
     "matchId": "2026-11-14-swinton-u13-wolves",
-    "status": "half-time",
-    "statusLabel": "Half time",
-    "period": "half-time",
-    "minute": 30,
+    "status": "live",
+    "statusLabel": "Live - 2nd half",
+    "period": "second-half",
+    "minute": 31,
     "firstHalfStartedAt": "2026-11-14T08:58:46+00:00",
-    "secondHalfStartedAt": null,
+    "secondHalfStartedAt": "2026-11-14T09:32:59+00:00",
     "fixture": {
         "date": "2026-11-14",
         "kickoff": "09:00",
@@ -89,5 +89,5 @@
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-11-14T09:28:56+00:00"
+    "lastUpdated": "2026-11-14T09:32:59+00:00"
 }
