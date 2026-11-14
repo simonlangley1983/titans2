@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 1st half",
     "period": "first-half",
-    "minute": 15,
+    "minute": 20,
     "firstHalfStartedAt": "2026-11-14T08:58:46+00:00",
     "secondHalfStartedAt": null,
     "fixture": {
@@ -76,8 +76,18 @@
             "team": "away",
             "scorer": "Noah",
             "assist": ""
+        },
+        {
+            "id": "goal-1794647903-5",
+            "type": "goal",
+            "goalType": "normal",
+            "minute": 20,
+            "period": "first-half",
+            "team": "away",
+            "scorer": "Ife",
+            "assist": "Jay"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-11-14T09:13:04+00:00"
+    "lastUpdated": "2026-11-14T09:18:23+00:00"
 }
